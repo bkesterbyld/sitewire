@@ -28,7 +28,6 @@ sections:
     title: How It Works
     features:
       - title: Borrower submits draws from their phone
-        subtitle: Borrowers access their budget items and request
         actions:
           - label: Learn More
             url: /style-guide
