@@ -52,7 +52,7 @@ sections:
         image: /images/5f7ceaad7b7ea842f0be2999_Group 22 (2).svg
         image_alt: Feature 1 placeholder image
         media_position: right
-        media_width: fifty
+        media_width: thirty-three
       - title: The Big Title For the Feature
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
