@@ -116,8 +116,8 @@ sections:
   - type: features_section
     features:
       - title: >-
-          “Stackbit is fast! Themes are always up to date. It’s easy to use
-          across the organization, and collaboration is easy.”
+          "Using Sitewire across multiple lenders is a godsend,my cashflow is
+          better than ever and we spend less time on paperwork"
         subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
         image: /images/park west-logo.png
         image_alt: Brandon Guidelines
