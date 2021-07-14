@@ -27,7 +27,7 @@ sections:
   - type: features_section
     title: How It Works
     features:
-      - title: Borrowers submit draws from their phone
+      - title: Borrower submits draws from their phone
         subtitle: Borrowers access their budget items and request
         actions:
           - label: Learn More
