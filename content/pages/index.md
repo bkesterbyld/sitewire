@@ -67,6 +67,7 @@ sections:
     align: center
     background_color: primary
     subtitle: designed by private lenders
+    background_image: /images/gradientsw.png
   - type: features_section
     features:
       - title: >-
