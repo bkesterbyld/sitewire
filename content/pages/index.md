@@ -36,7 +36,7 @@ sections:
   - type: features_section
     title: How It Works
     features:
-      - title: The Big Title For the Feature
+      - title: Borrowers submit draw requests from their phone
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
