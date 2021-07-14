@@ -35,13 +35,7 @@ sections:
           Using an intuitive and easy app, borrowers document job progress and
           request funds in minutes. Background data analysis and location
           verification prevent fraud. 
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: /images/mobileapp.png
         image_alt: Feature 3 placeholder image
         media_position: right
