@@ -28,7 +28,7 @@ sections:
     title: How It Works
     features:
       - title: Borrowers submit draws from their phone
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: Borrowers access their budget items and request
         actions:
           - label: Learn More
             url: /style-guide
