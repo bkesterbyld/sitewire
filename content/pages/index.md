@@ -27,7 +27,7 @@ sections:
   - type: features_section
     title: How It Works
     features:
-      - title: Mobile app makes draw requests easy for your borrower
+      - title: The Sitewire app makes draw requests easy for your borrower
         actions: []
         image: /images/mobileapp.png
         image_alt: Feature 1 placeholder image
