@@ -14,6 +14,7 @@ sections:
         url: /pricing
         style: primary
         has_icon: true
+        new_window: true
       - label: Learn More
         url: /features
         style: secondary
