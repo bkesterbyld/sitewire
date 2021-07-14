@@ -33,7 +33,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fourty
-      - title: The Big Title For the Feature
+      - title: Web software runs a workflow between inspectors and your team
         content: >
           Independent, licensed GCs review each draw and document any
           discrepancies and disbursement recommendations for your team. Then
