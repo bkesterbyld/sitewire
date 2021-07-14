@@ -34,10 +34,10 @@ sections:
         media_position: right
         media_width: fourty
       - title: The Big Title For the Feature
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Independent, licensed GCs review each draw and document any
+          discrepancies and disbursement recommendations for your team. Then
+          your team approves the draw and Sitewire notifies your wire team.
         actions: []
         image: /images/websoftware.png
         image_alt: Feature 2 placeholder image
