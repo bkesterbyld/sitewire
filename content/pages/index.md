@@ -30,7 +30,7 @@ sections:
   - type: features_section
     title: How It Works
     features:
-      - title: The Big Title For the Feature
+      - title: Borrowers submit draws from the Sitewire app
         subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
