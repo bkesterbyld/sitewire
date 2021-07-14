@@ -52,7 +52,7 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
-      - title: Run analytics across your borrowers
+      - title: Analytics help you better understand costs and borrowers
         content: >-
           ## Lorem ipsum
 
