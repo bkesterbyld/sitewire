@@ -118,7 +118,7 @@ sections:
       - title: >-
           "Using Sitewire across multiple lenders is a godsend,my cashflow is
           better than ever and we spend less time on paperwork"
-        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
+        subtitle: 'Doug Ingersoll, Park West Properties'
         image: /images/park west-logo.png
         image_alt: Brandon Guidelines
         media_position: right
