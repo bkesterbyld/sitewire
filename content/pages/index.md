@@ -70,6 +70,7 @@ sections:
     background_color: primary
     subtitle: designed by private lenders
     background_image: /images/gradientsw.png
+    has_border: true
   - type: features_section
     features:
       - title: >-
