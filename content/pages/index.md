@@ -30,12 +30,6 @@ sections:
   - type: features_section
     title: How It Works
     features:
-      - title: Borrowers use the Sitewire app to submit draw requests
-        actions: []
-        image: /images/mobileapp.png
-        image_alt: Feature 1 placeholder image
-        media_position: right
-        media_width: fourty
       - title: The Big Title For the Feature
         subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
         content: >-
@@ -53,6 +47,12 @@ sections:
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: fifty
+      - title: Borrowers use the Sitewire app to submit draw requests
+        actions: []
+        image: /images/mobileapp.png
+        image_alt: Feature 1 placeholder image
+        media_position: right
+        media_width: fourty
       - title: Web software runs a workflow between inspectors and your team
         content: >
           Independent, licensed GCs review the job and provides disbursement
