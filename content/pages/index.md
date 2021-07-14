@@ -53,7 +53,6 @@ sections:
         media_position: left
         media_width: fifty
       - title: Run analytics across your borrowers
-        subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
