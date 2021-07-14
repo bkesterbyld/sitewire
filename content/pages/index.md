@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: Delight your borrowers
-    subtitle: Optional hero section subtitle
+    subtitle: >-
+      Sitewire helps private lenders streamline their construction draw process
+      and deliver the highest level of borrower service
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
