@@ -65,7 +65,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/classic/feature-2.png
+        image: /images/5f7ceaad7b7ea80408be2964_wireframe (2).svg
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
