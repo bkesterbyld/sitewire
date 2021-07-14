@@ -116,7 +116,7 @@ sections:
   - type: features_section
     features:
       - title: >-
-          "Using Sitewire across multiple lenders is a godsend,my cashflow is
+          "Using Sitewire across multiple lenders is a godsend, my cashflow is
           better than ever and we spend less time on paperwork"
         subtitle: 'Doug Ingersoll, Park West Properties'
         image: /images/park west-logo.png
