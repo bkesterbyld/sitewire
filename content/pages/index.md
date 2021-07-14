@@ -31,7 +31,6 @@ sections:
     title: How It Works
     features:
       - title: Borrowers submit draws from the Sitewire app
-        subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
         content: >
           Using an intuitive and easy app, borrowers document job progress and
           request funds in minutes. Background data analysis and location
