@@ -14,7 +14,8 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-    image: images/classic/hero.png
+    image: >-
+      /images/5f7cedacc9860f79e64e39c0_sitewire-logo_logo-2-tone-blue-mark-p-500.png
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
