@@ -39,7 +39,7 @@ sections:
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
           euismod lacinia.
         actions: []
-        image: /images/5f7ceaad7b7ea80408be2964_wireframe (2).svg
+        image: /images/websoftware.png
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
