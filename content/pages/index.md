@@ -40,7 +40,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: /images/5f7ceaad7b7ea842f0be2999_Group 22 (2).svg
+        image: /images/mobileapp.png
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: thirty-three
