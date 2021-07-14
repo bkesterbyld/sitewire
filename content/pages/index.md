@@ -35,9 +35,9 @@ sections:
         media_width: fourty
       - title: Web software runs a workflow between inspectors and your team
         content: >
-          Independent, licensed GCs review each draw and document any
-          discrepancies and disbursement recommendations for your team. Then
-          your team approves the draw and Sitewire notifies your wire team.
+          Independent, licensed GCs review job progress and document
+          disbursement recommendations for your team. Then your back office
+          approves the draw and Sitewire notifies your wire department.
         actions: []
         image: /images/websoftware.png
         image_alt: Feature 2 placeholder image
