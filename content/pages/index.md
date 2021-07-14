@@ -32,10 +32,10 @@ sections:
     features:
       - title: Borrowers submit draws from the Sitewire app
         subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Using an intuitive and easy app, borrowers document job progress and
+          request funds in minutes. Background data analysis and location
+          verification prevent fraud. 
         actions:
           - label: Learn More
             url: /style-guide
