@@ -36,11 +36,11 @@ sections:
         media_width: fourty
       - title: Web software runs a workflow between inspectors and your team
         content: >
-          Independent, licensed GCs review job progress and document
-          disbursement recommendations for your team. Then your back office
-          approves the draw and Sitewire notifies your wire department. Along
-          the way, borrowers can see status changes, eliminating excess phone
-          calls and emails to check on their draws. 
+          Independent, licensed GCs review the job and provides disbursement
+          recommendations for your team. Then your back office approves the draw
+          and Sitewire notifies your wire department. Along the way, borrowers
+          can see status changes, eliminating excess phone calls and emails to
+          check on their draws.
         actions: []
         image: /images/websoftware.png
         image_alt: Feature 2 placeholder image
