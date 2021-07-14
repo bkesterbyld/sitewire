@@ -27,7 +27,7 @@ sections:
   - type: features_section
     title: How It Works
     features:
-      - title: Borrower submits draws from their phone
+      - title: Mobile app makes draw requests easy
         actions: []
         image: /images/mobileapp.png
         image_alt: Feature 1 placeholder image
