@@ -5,8 +5,7 @@ subtitle: >-
   equidem satis, inquit, me dixisse.
 date: '2020-05-28'
 author: content/data/team/gustav-purpleson.yaml
-categories:
-  - content/data/categories/general.yaml
+categories: []
 tags:
   - content/data/tags/stackbit.yaml
   - content/data/tags/jamstack.yaml
