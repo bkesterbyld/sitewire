@@ -101,7 +101,7 @@ sections:
         image: /images/5f7ceaad7b7ea8060abe293f_icons8-time-100.png
         image_position: top
         image_align: center
-        image_has_padding: false
+        image_has_padding: true
         image_width: twenty-five
       - title: Safe
         title_align: left
