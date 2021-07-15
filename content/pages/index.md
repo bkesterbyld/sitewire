@@ -137,6 +137,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: /images/5f7d438cd23afa63c616cf8d_icons8-comments-64.png
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: small
