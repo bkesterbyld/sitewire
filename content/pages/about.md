@@ -39,7 +39,7 @@ sections:
       We'd love to learn more about your business
     actions:
       - label: Compare Plans
-        url: /pricing
+        url: /general-enquiries
         style: primary
     align: center
     padding_top: medium
