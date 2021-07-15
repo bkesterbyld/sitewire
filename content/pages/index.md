@@ -104,7 +104,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/classic/icon-1.svg
+        image: /images/5f7ceaad7b7ea8060abe293f_icons8-time-100.png
         image_alt: Section item 1 icon
         image_position: top
         image_align: left
