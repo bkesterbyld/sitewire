@@ -85,7 +85,6 @@ sections:
     background_color: secondary
   - type: grid_section
     title: Borrowers Love The Experience
-    subtitle: Grid Section Example
     grid_items:
       - title: Easy
         title_align: center
