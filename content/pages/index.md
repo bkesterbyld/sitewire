@@ -96,13 +96,7 @@ sections:
           intuitive and quick
 
         content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image: /images/5f7ceaad7b7ea8060abe293f_icons8-time-100.png
         image_alt: Section item 1 icon
