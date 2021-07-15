@@ -131,7 +131,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/classic/icon-3.svg
+        image: /images/5f7d42ac55be22eae9bd9ef1_icons8-management-64.png
         image_alt: Section item 3 icon
         image_position: top
         image_align: left
