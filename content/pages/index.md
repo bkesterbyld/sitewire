@@ -59,7 +59,7 @@ sections:
         actions: []
         image_alt: lorem-ipsum
         media_position: right
-        media_width: fifty
+        media_width: sixty
         align: left
         type: feature
         image: /images/analytics2.png
