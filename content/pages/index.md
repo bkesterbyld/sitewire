@@ -17,7 +17,7 @@ sections:
         new_window: true
       - label: Google Play Store
         url: 'https://play.google.com/store/apps/details?id=com.byldtech.sitewire'
-        style: link
+        style: primary
         new_window: true
         icon: arrow-right
     image: >-
