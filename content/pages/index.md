@@ -153,7 +153,7 @@ sections:
   - type: cta_section
     title: Try it today!
     content: |
-      Sitewire is free to try with your borrowers for five draws
+      Sitewire is free to try with your borrowers
     actions:
       - label: Learn More
         url: /general-enquiries
