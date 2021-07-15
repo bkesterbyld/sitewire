@@ -102,6 +102,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
+        image_width: sixty
       - title: Safe
         title_align: left
         content: >-
