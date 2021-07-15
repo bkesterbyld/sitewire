@@ -156,7 +156,7 @@ sections:
       Sitewire is free to try with your borrowers for five draws.
     actions:
       - label: Learn More
-        url: /features
+        url: /general-enquiries
         style: secondary
     actions_position: right
     actions_width: fourty
