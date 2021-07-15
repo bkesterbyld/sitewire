@@ -90,11 +90,9 @@ sections:
         image_width: twenty-five
       - title: Safe
         title_align: center
-        content: >+
-          All communications with the borrower are encrypted and the app uses
-          location and background data analysis to prevent fraud
-
-
+        content: >
+          All communications are encrypted and the app uses location and
+          background data analysis to prevent fraud
         content_align: center
         actions: []
         actions_align: left
