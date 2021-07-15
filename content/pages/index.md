@@ -107,7 +107,7 @@ sections:
           Borrowers can see the status of their current and past draws, saving
           you from repeat phone calls and email
 
-        content_align: left
+        content_align: center
         actions:
           - label: Learn More
             url: /style-guide
