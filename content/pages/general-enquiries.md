@@ -44,7 +44,7 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - Error on the site
+          - Learn more about Sitewire
           - I need help!
           - Other
       - input_type: textarea
