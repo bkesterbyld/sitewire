@@ -118,10 +118,10 @@ sections:
         image_width: twenty-five
       - title: Transparent
         title_align: center
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >+
+          Borrowers can see the status of their current and past draws, saving
+          you from repeat phone calls and email
+
         content_align: left
         actions:
           - label: Learn More
