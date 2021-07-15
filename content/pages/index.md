@@ -10,7 +10,7 @@ sections:
       Mobile app and web based worfklow software to automates construction draw
       management
     actions:
-      - label: Try Free
+      - label: Apple App Store
         url: /pricing
         style: primary
         has_icon: true
