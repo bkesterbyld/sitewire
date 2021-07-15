@@ -165,7 +165,7 @@ sections:
     padding_bottom: large
     background_color: primary
 seo:
-  title: Stackbit DIY Theme
+  title: Sitewire - Construction Draw Software
   description: The preview of the DIY theme
   extra:
     - name: 'og:type'
