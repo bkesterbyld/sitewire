@@ -115,7 +115,7 @@ sections:
         actions_align: left
         image: /images/5f7d41c3d23afa012b16ccac_icons8-smart-home-connection-64.png
         image_position: top
-        image_align: left
+        image_align: center
         image_has_padding: true
       - title: Transparent
         title_align: left
