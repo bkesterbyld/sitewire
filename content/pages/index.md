@@ -114,7 +114,6 @@ sections:
         actions: []
         actions_align: left
         image: /images/5f7d41c3d23afa012b16ccac_icons8-smart-home-connection-64.png
-        image_alt: Section item 2 icon
         image_position: top
         image_align: left
         image_has_padding: true
