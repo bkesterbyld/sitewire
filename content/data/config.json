@@ -2,15 +2,15 @@
     "title": "Sitewire Construction Draw Software",
     "path_prefix": "/",
     "layout_type": "full-width",
-    "style": "classic",
+    "style": "bold",
     "palette": "blue",
     "mode": "light",
     "base_font": "sans-serif",
     "header": {
         "title": "DIY",
-        "logo": "/images/5f7cedbbc3135a20a0259ed4_sitewire-logo_logo-2-tone-blue-with-mark (1)-p-500 (1).png",
+        "logo": "/images/sitewire-logo_logo-blue-with-mark2.png",
         "logo_alt": "DIY logo",
-        "has_primary_nav": true,
+        "has_primary_nav": false,
         "primary_nav_links": [
             {
                 "label": "Features",
@@ -41,13 +41,13 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Contact",
-                "url": "/contact",
+                "label": "Support",
+                "url": "/general-enquiries",
                 "style": "link"
             },
             {
                 "label": "Lender Login",
-                "url": "/pricing",
+                "url": "http://app.sitewire.co",
                 "style": "primary"
             }
         ]

@@ -2,19 +2,24 @@
 title: Home
 sections:
   - type: hero_section
-    title: Turns draws around in 24 hours and slash back office costs
+    title: Turn draws around in 24 hours and slash back office costs
     subtitle: >-
       Sitewire helps private lenders streamline their construction draw process
       and deliver the highest level of borrower service
-    content: |
-      Mobile app and web based worfklow software to automate the draw process
+    content: >
+      Mobile app and web based worfklow software to automates construction draw
+      management
     actions:
-      - label: Try Free
-        url: /pricing
+      - label: Apple App Store
+        url: 'https://apps.apple.com/us/app/id1515565058'
         style: primary
-      - label: Learn More
-        url: /features
+        has_icon: true
+        new_window: true
+      - label: Google Play Store
+        url: 'https://play.google.com/store/apps/details?id=com.byldtech.sitewire'
         style: secondary
+        new_window: true
+        icon: arrow-right
     image: >-
       /images/5f7cedacc9860f79e64e39c0_sitewire-logo_logo-2-tone-blue-mark-p-500.png
     image_alt: Hero section placeholder image
@@ -27,48 +32,117 @@ sections:
   - type: features_section
     title: How It Works
     features:
-      - title: The Sitewire app makes draw requests easy for your borrower
+      - title: Borrowers submit draws from the Sitewire app
+        content: >
+          Using an intuitive and easy app, borrowers document job progress and
+          request funds in minutes. Background data analysis and location
+          verification prevent fraud. 
         actions: []
         image: /images/mobileapp.png
-        image_alt: Feature 1 placeholder image
+        image_alt: Feature 3 placeholder image
         media_position: right
-        media_width: fourty
+        media_width: fifty
       - title: Web software runs a workflow between inspectors and your team
         content: >
-          Independent, licensed GCs review each draw and document any
-          discrepancies and disbursement recommendations for your team. Then
-          your team approves the draw and Sitewire notifies your wire team.
+          Independent, licensed GCs review the job and provides disbursement
+          recommendations for your team. Then your back office approves the draw
+          and Sitewire notifies your wire department. Along the way, borrowers
+          can see status changes, eliminating phone calls and emails to check on
+          their draws.
         actions: []
         image: /images/websoftware.png
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
-      - title: The Big Title For the Feature
-        subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        image: images/classic/feature-3.png
-        image_alt: Feature 3 placeholder image
+      - title: Analytics help you better understand risk and rehab costs
+        content: >
+          Sitewire generates a number of views into your data, helping you score
+          borrowers, manage risk and assemble accurate go-forward budgets
+        actions: []
+        image_alt: lorem-ipsum
         media_position: right
-        media_width: fifty
+        media_width: sixty
+        align: left
+        type: feature
+        image: /images/analytics2.png
     feature_padding_vert: large
     align: center
     background_color: primary
+    subtitle: designed by private lenders
+    background_image: /images/gradientsw.png
+    has_border: true
+    padding_top: large
+    padding_bottom: large
+  - type: grid_section
+    title: Borrowers Love The Experience
+    grid_items:
+      - title: Easy
+        title_align: center
+        content: >+
+          The app has been designed by ex-Apple engineers to make draw requests
+          intuitive and quick
+
+        content_align: center
+        actions: []
+        actions_align: left
+        image: /images/sitewire-is-fast.png
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        image_width: twenty-five
+      - title: Safe
+        title_align: center
+        content: >
+          Communications are encrypted and the app uses location and other data
+          to prevent fraud
+        content_align: center
+        actions: []
+        actions_align: left
+        image: /images/5f7d41c3d23afa012b16ccac_icons8-smart-home-connection-64.png
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        image_width: twenty-five
+      - title: Transparent
+        title_align: center
+        content: >+
+          Borrowers can see the status of their current and past draws, saving
+          you from repeat phone calls and email
+
+        content_align: center
+        actions: []
+        actions_align: left
+        image: /images/5f7d42ac55be22eae9bd9ef1_icons8-management-64.png
+        image_position: top
+        image_align: center
+        image_has_padding: true
+      - title: Connected
+        title_align: center
+        content: >
+          A built-in messaging system creates a single interface to borrowers
+          and a history of your communications
+        content_align: center
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: center
+        image_has_padding: false
+        type: grid_item
+        image: /images/5f7d438cd23afa63c616cf8d_icons8-comments-64.png
+    grid_cols: four
+    grid_gap_horiz: medium
+    grid_gap_vert: small
+    enable_cards: false
+    align: center
+    background_color: none
   - type: features_section
     features:
       - title: >-
-          "Using Sitewire across multiple lenders is a godsend, my cashflow is
-          better than ever and it's encouraged us to do more loans with our
-          lender"
+          "Using Sitewire is a godsend, my cashflow is better than ever and it's
+          been a pleasure doing more business with our lender"
         subtitle: 'Doug Ingersoll, Park West Properties'
         image: /images/park west-logo.png
         image_alt: Brandon Guidelines
@@ -76,131 +150,10 @@ sections:
         media_width: thirty-three
     feature_padding_vert: small
     background_color: secondary
-  - type: grid_section
-    title: Cards Grid Section
-    subtitle: Grid Section Example
-    grid_items:
-      - title: Section Item 1
-        title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
-        content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
-        actions_align: left
-        image: images/classic/icon-1.svg
-        image_alt: Section item 1 icon
-        image_position: top
-        image_align: left
-        image_has_padding: true
-      - title: Section Item 2
-        title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
-        content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
-        actions_align: left
-        image: images/classic/icon-2.svg
-        image_alt: Section item 2 icon
-        image_position: top
-        image_align: left
-        image_has_padding: true
-      - title: Section Item 3
-        title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
-        content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
-        actions_align: left
-        image: images/classic/icon-3.svg
-        image_alt: Section item 3 icon
-        image_position: top
-        image_align: left
-        image_has_padding: true
-    grid_cols: three
-    grid_gap_horiz: medium
-    grid_gap_vert: small
-    enable_cards: true
-    align: center
-    background_color: none
-  - type: grid_section
-    title: Reviews Section
-    subtitle: Grid Section Example
-    grid_items:
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
-
-
-          **Hanson Deck,** *App Developer, Studio*
-        image: images/hanson-deck.png
-        image_alt: Hanson Deck
-        image_position: left
-        image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
-
-
-          **Miles Tone,** *CEO, Studio*
-        image: images/miles-tone.png
-        image_alt: Miles Tone
-        image_position: left
-        image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
-
-
-          **Eleanor Carr,** *CTO, Studio*
-        image: images/eleanor-carr.png
-        image_alt: Eleanor Carr
-        image_position: left
-        image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
-
-
-          **Gordon Norman,** *Web Designer, Studio*
-        image: images/gordon-norman.png
-        image_alt: Gordon Norman
-        image_position: left
-        image_width: twenty-five
-    grid_cols: two
-    grid_gap_horiz: medium
-    grid_gap_vert: large
-    align: center
-    background_color: secondary
   - type: cta_section
-    title: This is Call To Action Section In DIY Theme!
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    title: Try it today!
+    content: |
+      Sitewire is free to try with your borrowers for five draws.
     actions:
       - label: Learn More
         url: /features
