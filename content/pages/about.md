@@ -38,7 +38,7 @@ sections:
     content: |
       We'd love to learn more about your business
     actions:
-      - label: Compare Plans
+      - label: Reach Out
         url: /general-enquiries
         style: primary
     align: center
