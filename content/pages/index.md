@@ -175,7 +175,7 @@ seo:
       value: Sitewire Digital Construction Draws
       keyName: property
     - name: 'og:description'
-      value: The preview of the DIY theme
+      value: Digitize your construction draws
       keyName: property
     - name: 'twitter:card'
       value: summary_large_image
