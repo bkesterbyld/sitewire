@@ -8,7 +8,7 @@ $theme-styles: (
 			sans-serif: ('Open Sans', Lato, sans-serif)
 		),
 		colors: (
-			blue:  #7076f0,
+			blue:  #0076BE,
 			green: #29cf7f,
 			red:   #f36763
 		)
@@ -16,10 +16,10 @@ $theme-styles: (
 	bold: (
 		fonts: (
 			serif: ('Arvo', 'Rockwell', Georgia, Times, 'Times New Roman', serif),
-			sans-serif: ('Poppins', 'Helvetica Neue', Helvetica, 'Roboto', sans-serif)
+			sans-serif: ('Inter', 'Poppins', 'Helvetica Neue', Helvetica, 'Roboto', sans-serif)
 		),
 		colors: (
-			blue:  #2859da,
+			blue:  #0076BE,
 			green: #01be54,
 			red:   #ec5033
 		)
@@ -30,7 +30,7 @@ $theme-styles: (
 			sans-serif: ('IBM Plex Sans','Helvetica Neue', Helvetica, 'Roboto', sans-serif)
 		),
 		colors: (
-			blue:   #0084ff,
+			blue:   #0076BE,
 			green:  #00cc88,
 			red:    #ff3366
 		)
@@ -101,7 +101,7 @@ $color-bold-nav-mobile-overlay:        rgba(44,52,60,.8) !default;
 
 // Header
 $color-header-border:                  #eceef1 !default;
-$color-bold-header-border:             #2c343c !default;
+$color-bold-header-border:             #eceef1 !default;
 
 // Footer
 $color-footer-border:                  #eceef1 !default;
