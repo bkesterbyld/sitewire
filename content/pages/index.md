@@ -92,7 +92,7 @@ sections:
         title_align: center
         content: >
           Communications are encrypted and the app uses location and background
-          data analysis to prevent fraud
+          data to prevent fraud
         content_align: center
         actions: []
         actions_align: left
