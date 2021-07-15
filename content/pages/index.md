@@ -71,18 +71,6 @@ sections:
     has_border: true
     padding_top: large
     padding_bottom: large
-  - type: features_section
-    features:
-      - title: >-
-          "Using Sitewire is a godsend, my cashflow is better than ever and it's
-          been a pleasure doing more business with our lender"
-        subtitle: 'Doug Ingersoll, Park West Properties'
-        image: /images/park west-logo.png
-        image_alt: Brandon Guidelines
-        media_position: right
-        media_width: thirty-three
-    feature_padding_vert: small
-    background_color: secondary
   - type: grid_section
     title: Borrowers Love The Experience
     grid_items:
@@ -188,6 +176,18 @@ sections:
     enable_cards: false
     align: center
     background_color: none
+  - type: features_section
+    features:
+      - title: >-
+          "Using Sitewire is a godsend, my cashflow is better than ever and it's
+          been a pleasure doing more business with our lender"
+        subtitle: 'Doug Ingersoll, Park West Properties'
+        image: /images/park west-logo.png
+        image_alt: Brandon Guidelines
+        media_position: right
+        media_width: thirty-three
+    feature_padding_vert: small
+    background_color: secondary
   - type: cta_section
     title: This is Call To Action Section In DIY Theme!
     content: >-
