@@ -16,7 +16,7 @@ sections:
         has_icon: true
         new_window: true
       - label: Google Play Store
-        url: /features
+        url: 'https://play.google.com/store/apps/details?id=com.byldtech.sitewire'
         style: secondary
     image: >-
       /images/5f7cedacc9860f79e64e39c0_sitewire-logo_logo-2-tone-blue-mark-p-500.png
