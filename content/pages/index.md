@@ -153,10 +153,10 @@ sections:
   - type: cta_section
     title: Try it today!
     content: |
-      Sitewire is free to try with your borrowers for five draws.
+      Sitewire is free to try with your borrowers
     actions:
       - label: Learn More
-        url: /features
+        url: /general-enquiries
         style: secondary
     actions_position: right
     actions_width: fourty
@@ -165,22 +165,18 @@ sections:
     padding_bottom: large
     background_color: primary
 seo:
-  title: Stackbit DIY Theme
-  description: The preview of the DIY theme
+  title: Sitewire - Construction Draw Software
+  description: Fully automate your draws today!
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit DIY Theme
+      value: Sitewire Digital Construction Draws
       keyName: property
     - name: 'og:description'
-      value: The preview of the DIY theme
+      value: Digitize your construction draws
       keyName: property
-    - name: 'og:image'
-      value: images/diy-preview.png
-      keyName: property
-      relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
