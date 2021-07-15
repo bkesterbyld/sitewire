@@ -89,7 +89,7 @@ sections:
     title: Borrowers Love The Experience
     subtitle: Grid Section Example
     grid_items:
-      - title: Section Item 1
+      - title: Easy
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
