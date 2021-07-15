@@ -37,7 +37,7 @@ Please read this Mobile and Web Application End User License Agreement (“EULA�
 
 **7. Consent to Electronic Communications and Solicitation.** By downloading the Mobile App, You authorize Sitewire to send You (including via email and push notifications) information regarding the Subscription Service and the Mobile App, such as: (a) notices about Your use of the Subscription Service and the Mobile App, including notices of violations of use; (b) updates to the Subscription Service and Mobile App and new features or products; and (c) promotional information and materials regarding Sitewire's products and services.  You can review Your account notification settings and adjust Your messaging preferences, including opting-in to additional messages or unsubscribing to certain messaging through the “Push Notifications” section of the Mobile App settings.
 
-**8. No Warranty. **YOUR USE OF THE MOBILE APP IS AT YOUR SOLE RISK. THE MOBILE APP IS PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS. SITEWIRE EXPRESSLY DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+**8. No Warranty.** YOUR USE OF THE MOBILE APP IS AT YOUR SOLE RISK. THE MOBILE APP IS PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS. SITEWIRE EXPRESSLY DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
 
 The Mobile App is only available for supported devices and might not work on every device. Determining whether Your device is a supported or compatible device for use of the Mobile App is solely Your responsibility, and downloading the Mobile App is done at Your own risk. Sitewire does not represent or warrant that the Mobile App and Your device are compatible or that the Mobile App will work on Your device.
 
@@ -45,7 +45,7 @@ The Mobile App is only available for supported devices and might not work on eve
 
 **8.2      Android Application.** GOOGLE EXPRESSLY DISCLAIMS ALL WARRANTIES AND CONDITIONS OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
 
-**9. Suspension and Termination of the Mobile App. **Sitewire reserves the right to suspend or terminate Your access to the Mobile App at any time based on the status of Your account (including your Lender’s account) under the Subscription Agreement. You understand that if Your account is suspended or terminated, You may no longer have access to the content that is stored within the Subscription Service.
+\*\*9. Suspension and Termination of the Mobile App. \*\*Sitewire reserves the right to suspend or terminate Your access to the Mobile App at any time based on the status of Your account (including your Lender’s account) under the Subscription Agreement. You understand that if Your account is suspended or terminated, You may no longer have access to the content that is stored within the Subscription Service.
 
 **10.  Intellectual Property Rights.** In the event of a third party claim that the Mobile App, or Your possession and use of the Mobile App, infringes third party’s intellectual property rights, Sitewire will be solely responsible for the investigation, defense, settlement and discharge of any such intellectual property infringement claim.
 
