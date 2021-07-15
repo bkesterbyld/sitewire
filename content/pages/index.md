@@ -95,7 +95,7 @@ sections:
           The app has been designed by ex-Apple engineers to make draw requests
           intuitive and quick
 
-        content_align: left
+        content_align: center
         actions: []
         actions_align: left
         image: /images/5f7ceaad7b7ea8060abe293f_icons8-time-100.png
