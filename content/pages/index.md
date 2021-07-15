@@ -69,6 +69,7 @@ sections:
     subtitle: designed by private lenders
     background_image: /images/gradientsw.png
     has_border: true
+    padding_top: large
   - type: features_section
     features:
       - title: >-
