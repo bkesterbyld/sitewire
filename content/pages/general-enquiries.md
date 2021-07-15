@@ -48,7 +48,7 @@ sections:
           - I need help!
           - Other
       - input_type: textarea
-        name: Any details to sh
+        name: Any details to share or questions we can answer?
         label: Message
         default_value: Your message
       - input_type: checkbox
