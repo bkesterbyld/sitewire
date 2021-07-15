@@ -35,7 +35,8 @@ sections:
         media_width: fifty
   - type: cta_section
     title: Get to know us
-    content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
+    content: |
+      We'd love to learn more about your business
     actions:
       - label: Compare Plans
         url: /pricing
