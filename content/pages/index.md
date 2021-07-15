@@ -105,10 +105,11 @@ sections:
         image_width: twenty-five
       - title: Safe
         title_align: center
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >+
+          All communications with the borrower are encrypted and the app uses
+          location and background data analysis to prevent fraud
+
+
         content_align: left
         actions:
           - label: Learn More
