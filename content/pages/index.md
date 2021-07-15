@@ -108,13 +108,7 @@ sections:
           you from repeat phone calls and email
 
         content_align: center
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image: /images/5f7d42ac55be22eae9bd9ef1_icons8-management-64.png
         image_position: top
