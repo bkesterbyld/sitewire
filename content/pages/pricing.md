@@ -9,20 +9,18 @@ sections:
     padding_bottom: small
   - type: grid_section
     grid_items:
-      - title: Personal
+      - title: Digitized
         subtitle: Optional subtitle
         title_align: left
-        content: |-
-          ---
-
-          ### $9
+        content: |
+          ### 9
 
           per month, billed yearly
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
+          *   Et semper leo mattis orci conubia congue
+          *   Quisque eleifend imperdiet tortor
+          *   Elementum eu rhoncus, volutpat
+          *   Nisi cubilia interdum ultricies
         content_align: left
         actions:
           - label: Start with Personal
