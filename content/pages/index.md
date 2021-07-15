@@ -11,7 +11,7 @@ sections:
       management
     actions:
       - label: Apple App Store
-        url: /pricing
+        url: 'https://apps.apple.com/us/app/id1515565058'
         style: primary
         has_icon: true
         new_window: true
