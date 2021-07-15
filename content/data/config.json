@@ -55,16 +55,11 @@
     "footer": {
         "logo": "/images/enthusiastic-celery.png",
         "logo_alt": "Sitewire Construction Draw Software",
-        "has_primary_nav": true,
+        "has_primary_nav": false,
         "primary_nav_links": [
             {
                 "label": "About",
                 "url": "/about",
-                "style": "link"
-            },
-            {
-                "label": "Style Guide",
-                "url": "/style-guide",
                 "style": "link"
             }
         ],
@@ -90,17 +85,28 @@
         "has_tertiary_nav": true,
         "tertiary_nav_links": [
             {
+                "label": "About",
+                "url": "/about",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
                 "label": "Terms & Conditions",
-                "url": "/terms-conditions",
+                "url": "/tos",
                 "style": "link"
             },
             {
                 "label": "Privacy Policy",
-                "url": "/privacy-policy",
+                "url": "/privacy",
                 "style": "link"
             }
         ],
-        "has_social": true,
+        "has_social": false,
         "social_links": [
             {
                 "label": "GitHub",
