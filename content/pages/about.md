@@ -33,17 +33,6 @@ sections:
         image_alt: Happy co-workers
         media_position: right
         media_width: fifty
-  - type: grid_section
-    title: Our Officess
-    grid_items: []
-    grid_cols: four
-    grid_gap_horiz: large
-    grid_gap_vert: large
-    enable_cards: true
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
   - type: cta_section
     title: This is a Call to Action
     content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
