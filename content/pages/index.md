@@ -53,17 +53,9 @@ sections:
         media_position: left
         media_width: fifty
       - title: Analytics help you better understand costs and borrowers
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Sitewire aggregates analytics from your borrowes, helping you better
+          understand
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
