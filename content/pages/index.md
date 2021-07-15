@@ -7,7 +7,7 @@ sections:
       Sitewire helps private lenders streamline their construction draw process
       and deliver the highest level of borrower service
     content: >
-      Mobile app and web based worfklow software to automates construction draw
+      Mobile app and web based worfklow software to automate construction draw
       management
     actions:
       - label: Apple App Store
