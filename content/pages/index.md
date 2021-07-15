@@ -15,7 +15,7 @@ sections:
         style: primary
         has_icon: true
         new_window: true
-      - label: Learn More
+      - label: Google Play Store
         url: /features
         style: secondary
     image: >-
