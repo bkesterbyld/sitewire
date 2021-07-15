@@ -23,21 +23,21 @@ layout: page
 ---
 Your privacy is important to us. This privacy statement explains the personal data ByldTech Inc. dba Sitewire (“Sitewire”) processes, how Sitewire processes it, and for what purposes. ByldTech and Sitewire offers a wide range of products for use in real estate and construction activities. References to these products in this statement include Sitewire services, websites, mobile apps, software, servers, and devices. This statement applies to the interactions Sitewire has with you and the Sitewire products listed below, as well as other Sitewire products that display this statement.
 
-
-
 PERSONAL DATA, GENERAL STATEMENT
 
 Sitewire collects data from you, through our interactions with you and through our products. You provide some of this data directly, and we get some of it by collecting data about your interactions, use, and experiences with our products. The data we collect depends on the context of your interactions with Sitewire and the choices you make, including your privacy settings and the products and features you use. We also obtain data about you from third parties. You have choices when it comes to the technology you use and the data you share. When we ask you to provide personal data, you can decline. Many of our products require some personal data to provide you with a service. If you choose not to provide data required to provide you with a product or feature, you cannot use that product or feature. Likewise, where we need to collect personal data by law or to enter into or carry out a contract with you, and you do not provide the data, we will not be able to enter into the contract; or if this relates to an existing product you’re using, we may have to suspend or cancel it. We will notify you if this is the case at the time. Where providing the data is optional, and you choose not to share personal data, features like personalization that use such data will not work for you.
 
 HOW WE USE PERSONAL DATA
 
-Sitewire uses the data we collect to provide you with rich, interactive experiences. In particular, we use data to: • Provide our products, which includes updating, securing, and troubleshooting, as well as providing support. It also includes sharing data, when it is required to provide the service or carry out the transactions you request.
+Sitewire uses the data we collect to provide you with rich, interactive experiences. In particular, we use data to:
 
-Improve and develop our products.
+*   Provide our products, which includes updating, securing, and troubleshooting, as well as providing support. It also includes sharing data, when it is required to provide the service or carry out the transactions you request.
 
-Personalize our products and make recommendations.
+*   Improve and develop our products.
 
-Advertise and market to you, which includes sending promotional communications, targeting advertising, and presenting you with relevant offers.
+*   Personalize our products and make recommendations.
+
+*   Advertise and market to you, which includes sending promotional communications, targeting advertising, and presenting you with relevant offers.
 
 We also use the data to operate our business, which includes analyzing our performance, meeting our legal obligations, developing our workforce, and doing research. In carrying out these purposes, we combine data we collect from different contexts (for example, from your use of two Sitewire’s iOS app combined with Sitewire’s web app) or obtain from third parties to give you a more seamless, consistent, and personalized experience, to make informed business decisions, and for other legitimate purposes. Our processing of personal data for these purposes includes both automated and manual (human) methods of processing. Our automated methods often are related to and supported by our manual methods.
 
@@ -49,11 +49,11 @@ HOW TO ACCESS AND CONTROL YOUR PERSONAL DATA
 
 You can also make choices about the collection and use of your data by Sitewire. You can control your personal data that Sitewire has obtained, and exercise your data protection rights, by contacting Sitewire at data@sitewire.co or using various tools we provide. In some cases, your ability to access or control your personal data will be limited, as required or permitted by applicable law. How you can access or control your personal data will also depend on which products you use. For example, you can:
 
-Control the use of your data for interest-based advertising from Sitewire by visiting our opt out page.
+*   Control the use of your data for interest-based advertising from Sitewire by visiting our opt out page.
 
-Choose whether you wish to receive promotional emails, SMS messages, telephone calls, and postal mail from Sitewire.
+*   Choose whether you wish to receive promotional emails, SMS messages, telephone calls, and postal mail from Sitewire.
 
-Access and clear your data through data@sitewire.co
+*   Access and clear your data through data@sitewire.co
 
 COOKIES AND SIMILAR TECHNOLOGIES
 
@@ -63,15 +63,15 @@ PRODUCTS PROVIDED BY YOUR ORGANIZATION—NOTICE TO END USERS
 
 If you use a Sitewire product with an account provided by an organization you are affiliated with, such as your construction company or with a lender that has loaned money to you and has provided Sitewire as a free service to you, you can:
 
-Control and administer your Sitewire product and product account, including controlling privacy-related settings of the product or product account.
+*   Control and administer your Sitewire product and product account, including controlling privacy-related settings of the product or product account.
 
-Access and process your data, including the interaction data, diagnostic data, and the contents of your communications and files associated with your Sitewire product and product accounts.
+*   Access and process your data, including the interaction data, diagnostic data, and the contents of your communications and files associated with your Sitewire product and product accounts.
 
-If you lose access to your account (in event of change of employment, for example), you may lose access to products and the content associated with those products, including those you acquired on your own behalf, if you used your work or school account to sign in to such products. All Sitewire products are intended for use by organizations, such as general contractors, private lenders, banks, loan servicers and institutional capital providers and other businesses. If your organization, or an organization you do business with (an “Affiliate”), provides you with access to Sitewire products, your use of the Sitewire products is subject to the providing organization's policies as well as those of the Affiliate, if any. You should direct your privacy inquiries, including any requests to exercise your data protection rights, to the relevant organization’s administrator or to the Sitewire administrator at your Affiliate. In the instance of any confusion, please contact us at data@sitewire.co.  Sitewire is not responsible for the privacy or security practices of our customers, who may be your Affiliate, which may differ from those set forth in this privacy statement. When you use a Sitewire product provided by your organization, Sitewire’s processing of your personal data in connection with that product is governed by a contract between Sitewire and the organization that pays fees to Sitewire, whether your organization or an Affiliate. Sitewire processes your personal data to provide the product to your organization and you, and for Sitewire’s legitimate business operations related to providing the product. As mentioned above, if you have questions about Sitewire’s processing of your personal data in connection with providing products to your organization, please contact your organization or relevant Affiliate.  Generally, from your use of Sitewire’s products and services we will:
+If you lose access to your account (in event of a change of employment, for example), you may lose access to products and the content associated with those products, including those you acquired on your own behalf, if you used your work or school account to sign in to such products. All Sitewire products are intended for use by organizations, such as general contractors, private lenders, banks, loan servicers, and institutional capital providers, and other businesses. If your organization, or an organization you do business with (an “Affiliate”), provides you with access to Sitewire products, your use of the Sitewire products is subject to the providing organization's policies as well as those of the Affiliate, if any. You should direct your privacy inquiries, including any requests to exercise your data protection rights, to the relevant organization’s administrator or to the Sitewire administrator at your Affiliate. In the instance of any confusion, please contact us at data@sitewire.co.  Sitewire is not responsible for the privacy or security practices of our customers, who may be your Affiliate, which may differ from those set forth in this privacy statement. When you use a Sitewire product provided by your organization, Sitewire’s processing of your personal data in connection with that product is governed by a contract between Sitewire and the organization that pays fees to Sitewire, whether your organization or an Affiliate. Sitewire processes your personal data to provide the product to your organization and you, and for Sitewire’s legitimate business operations related to providing the product. As mentioned above, if you have questions about Sitewire’s processing of your personal data in connection with providing products to your organization, please contact your organization or relevant Affiliate.  Generally, from your use of Sitewire’s products and services we will:
 
-not collect or use personal data beyond that needed for business purposes to deliver commercial data processing services to you or an affiliate
+*   not collect or use personal data beyond that needed for business purposes to deliver commercial data processing services to you or an affiliate
 
-not share your personal data with 3rd parties for advertising or similar commercial purposes
+*   not share your personal data with 3rd parties for advertising or similar commercial purposes
 
 PRODUCT & BUSINESS DATA WE COLLECT AND ANALYZE
 
@@ -104,5 +104,3 @@ Loan buyers who may want to acquire borrower’s loan may also approve disbursem
 Mobile users may request that their personal data be deleted by contacting their lender or Sitewire directly at data@sitewire.co.  
 
 Any affiliate, third party, vendor, partner or subcontractor of Sitewire will provide full protection of user data that is at least as protective as Sitewire provides to it’s mobile and web application users.
-
-‍
