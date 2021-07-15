@@ -117,7 +117,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-        image_width: fifty
+        image_width: twenty-five
       - title: Transparent
         title_align: left
         content: >-
