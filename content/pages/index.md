@@ -123,7 +123,6 @@ sections:
         image_align: center
         image_has_padding: true
       - title: Connected
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
