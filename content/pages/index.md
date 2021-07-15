@@ -133,7 +133,7 @@ sections:
         actions_align: left
         image: /images/5f7d42ac55be22eae9bd9ef1_icons8-management-64.png
         image_position: top
-        image_align: left
+        image_align: center
         image_has_padding: true
       - title: lorem-ipsum
         subtitle: lorem-ipsum
