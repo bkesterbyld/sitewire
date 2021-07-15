@@ -9,10 +9,22 @@ sections:
     padding_bottom: medium
     background_color: none
   - type: form_section
-    content: |
+    content: >
       ## Privacy
 
-      We never share your data with third parties. Period. 
+
+      We never share your data with third parties. Period.
+
+
+
+
+      ## Support Request?&#xA;&#xA;
+
+
+      If you need support, please let us know if you are a lender, borrower or
+      lender's capital partner. If you're a borrower having trouble with the
+      mobile app, please let us know what type of phone you have and provide any
+      details you can about the issue you're having. 
     content_align: left
     form_position: right
     form_width: fifty
