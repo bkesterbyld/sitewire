@@ -101,7 +101,7 @@ sections:
         image: /images/5f7ceaad7b7ea8060abe293f_icons8-time-100.png
         image_alt: Section item 1 icon
         image_position: top
-        image_align: left
+        image_align: center
         image_has_padding: true
       - title: Safe
         title_align: left
