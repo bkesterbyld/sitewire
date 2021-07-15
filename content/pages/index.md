@@ -54,8 +54,8 @@ sections:
         media_width: fifty
       - title: Analytics help you better understand borrowers and local job costs
         content: >
-          Sitewire aggregates analytics from your borrowes, helping you better
-          understand
+          Sitewire generates a number of views into your data, helping you score
+          borrowers, manage risk and assemble accurate go-forward budgets
         actions: []
         image_alt: lorem-ipsum
         media_position: right
