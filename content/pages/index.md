@@ -90,7 +90,7 @@ sections:
     subtitle: Grid Section Example
     grid_items:
       - title: Easy
-        title_align: left
+        title_align: center
         content: >+
           The app has been designed by ex-Apple engineers to make draw requests
           intuitive and quick
