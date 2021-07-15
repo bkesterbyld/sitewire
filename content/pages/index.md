@@ -190,10 +190,8 @@ sections:
     background_color: secondary
   - type: cta_section
     title: Try it today!
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    content: |
+      Sitewire is free to try with your borrowers for five draws.
     actions:
       - label: Learn More
         url: /features
