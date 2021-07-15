@@ -70,6 +70,7 @@ sections:
     background_image: /images/gradientsw.png
     has_border: true
     padding_top: large
+    padding_bottom: large
   - type: features_section
     features:
       - title: >-
