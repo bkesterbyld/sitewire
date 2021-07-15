@@ -119,7 +119,7 @@ sections:
         content: >
           A built-in messaging system creates a single interface to borrowers
           and a history of your communications
-        content_align: left
+        content_align: center
         actions: []
         actions_align: left
         actions_width: auto
