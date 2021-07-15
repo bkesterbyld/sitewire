@@ -47,7 +47,7 @@
             },
             {
                 "label": "Lender Login",
-                "url": "/pricing",
+                "url": "http://app.sitewire.co",
                 "style": "primary"
             }
         ]
