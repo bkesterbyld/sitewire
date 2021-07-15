@@ -49,7 +49,7 @@ sections:
           - Other
       - input_type: textarea
         name: Any details to share or questions we can answer?
-        label: Message
+        label: Any details to share or questions we can answer?
         default_value: Your message
       - input_type: checkbox
         name: consent
