@@ -51,7 +51,7 @@ sections:
         name: Any details to share or questions we can answer?
         label: Any details to share or questions we can answer?
         default_value: Your message
-        is_required: true
+        is_required: false
       - input_type: checkbox
         name: consent
         label: >-
