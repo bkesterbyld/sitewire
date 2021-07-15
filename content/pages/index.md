@@ -110,7 +110,7 @@ sections:
           location and background data analysis to prevent fraud
 
 
-        content_align: left
+        content_align: center
         actions:
           - label: Learn More
             url: /style-guide
