@@ -19,6 +19,7 @@ sections:
         url: 'https://play.google.com/store/apps/details?id=com.byldtech.sitewire'
         style: secondary
         new_window: true
+        icon: arrow-right
     image: >-
       /images/5f7cedacc9860f79e64e39c0_sitewire-logo_logo-2-tone-blue-mark-p-500.png
     image_alt: Hero section placeholder image
