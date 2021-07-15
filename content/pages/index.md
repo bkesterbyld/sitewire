@@ -166,7 +166,7 @@ sections:
     background_color: primary
 seo:
   title: Sitewire - Construction Draw Software
-  description: The preview of the DIY theme
+  description: Fully automate your draws today!
   extra:
     - name: 'og:type'
       value: website
