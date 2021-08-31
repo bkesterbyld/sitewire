@@ -34,9 +34,9 @@ sections:
     features:
       - title: Borrowers submit draws from the Sitewire app
         content: >
-          Using an intuitive and easy app, borrowers document job progress and
-          request funds in minutes. Background data analysis and location
-          verification prevent fraud. 
+          Using an intuitive app, borrowers document job progress and request
+          funds in minutes. Background data analysis and location verification
+          prevent fraud.
         actions: []
         image: /images/mobileapp.png
         image_alt: Feature 3 placeholder image
