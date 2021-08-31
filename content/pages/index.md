@@ -38,7 +38,7 @@ sections:
           funds in minutes. Background data analysis and location verification
           prevent fraud.
         actions: []
-        image: /images/Picture3.png
+        image: /images/Picture4.png
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: fifty
