@@ -7,7 +7,7 @@ sections:
       Sitewire helps private lenders streamline their construction draw process
       and deliver the highest level of borrower service
     content: |
-      Hybrid construction draws and automated payments
+      Hybrid construction draws plus automated same day payments
     actions:
       - label: Apple App Store
         url: 'https://apps.apple.com/us/app/id1515565058'
