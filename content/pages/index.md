@@ -62,7 +62,7 @@ sections:
         align: left
         type: feature
         image: /images/analytics2.png
-        title: 'You get analytics on borrowers '
+        title: You get borrower and budget analytics
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         content: >-
