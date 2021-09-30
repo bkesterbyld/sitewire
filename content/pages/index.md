@@ -42,7 +42,7 @@ sections:
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: fifty
-      - title: Independent inspectors review the work with your team
+      - title: Independent inspectors review the work
         content: >
           Independent, licensed GCs review the work and provide disbursement
           recommendations for your team. Then your back office approves the draw
