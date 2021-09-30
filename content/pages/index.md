@@ -54,7 +54,7 @@ sections:
         media_width: fifty
       - content: >
           Your team approves the draw and  Sitewire notifies your wire
-          department, or you can optionally do same-day bank transfers. As the
+          department, or you can optionally do same-day bank payments. As the
           draw closes, the service generates analytics for go-forward budgeting
           and borrower risk scoring.
         actions: []
