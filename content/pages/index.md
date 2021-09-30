@@ -168,7 +168,7 @@ sections:
     actions: []
     grid_items:
       - title: '"This is worth an extra point on my deal"'
-        subtitle: 'Chris B., Borrower in Washington, D.C.'
+        subtitle: 'Chris B., Washington, D.C.'
         title_align: center
         content_align: left
         actions: []
