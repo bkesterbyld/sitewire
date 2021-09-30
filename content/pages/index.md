@@ -181,7 +181,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-    title: '"This is worth an extra point on my deal"'
 seo:
   title: Sitewire - Construction Draw Software
   description: Fully automate your draws today!
