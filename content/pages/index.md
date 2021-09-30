@@ -56,7 +56,7 @@ sections:
           Upon draw approval, Sitewire notifies your wire department, or you can
           optionally do same day payments via Sitewire. As the draw closes, the
           service generates analytics for go-forward budgeting and borrower risk
-          scoring. 
+          scoring.
         actions: []
         image_alt: lorem-ipsum
         media_position: right
