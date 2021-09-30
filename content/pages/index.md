@@ -46,10 +46,7 @@ sections:
         content: >
           Independent, licensed GCs review the work and provide disbursement
           recommendations for your team. Then your back office approves the draw
-          and Sitewire notifies your wire department or optionally can initiate
-          same day payment from your bank. Along the way, borrowers can see
-          status changes, eliminating phone calls and emails to check on their
-          draws.
+          and Sitewire notifies your wire department. 
         actions: []
         image: /images/websoftware.png
         image_alt: Feature 2 placeholder image
