@@ -62,7 +62,7 @@ sections:
         align: left
         type: feature
         image: /images/analytics2.png
-        title: The draw gets closed with payment automation and analytics
+        title: Borrower get paid quickly and you get analytics
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         content: >-
