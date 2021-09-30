@@ -6,9 +6,8 @@ sections:
     subtitle: >-
       Sitewire helps private lenders streamline their construction draw process
       and deliver the highest level of borrower service
-    content: >
-      Mobile app and web-based workflow software to automate construction draw
-      management
+    content: |
+      Mobile app and web-based workflow software to streamline your draw process
     actions:
       - label: Apple App Store
         url: 'https://apps.apple.com/us/app/id1515565058'
