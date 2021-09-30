@@ -179,7 +179,7 @@ sections:
         image_width: twenty-five
         image_align: left
         image_has_padding: false
-        image: /images/byldtechclient.png
+        image: /images/chrisb.png
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
