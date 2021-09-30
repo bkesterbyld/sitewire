@@ -31,7 +31,7 @@ sections:
   - type: features_section
     title: How It Works
     features:
-      - title: Self-Service Draw Requests & Progress Documentation
+      - title: Self service draw requests & progress
         content: >
           Using an intuitive app, borrowers document job progress and request
           funds in minutes. Background data analysis and location verification
