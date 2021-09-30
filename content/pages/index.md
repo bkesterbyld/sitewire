@@ -169,7 +169,7 @@ sections:
     grid_items:
       - title: '"This is worth an extra point on my deal"'
         subtitle: 'Chris B., Washington, D.C.'
-        title_align: left
+        title_align: center
         content: >-
           ## Lorem ipsum
 
