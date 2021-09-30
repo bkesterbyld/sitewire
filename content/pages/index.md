@@ -64,7 +64,7 @@ sections:
         align: left
         type: feature
         image: /images/analytics2.png
-        title: Borrower get paid quickly and you get analytics
+        title: Borrower get paid out and you get analytics
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         content: >-
