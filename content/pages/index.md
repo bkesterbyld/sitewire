@@ -54,7 +54,7 @@ sections:
         media_width: fifty
       - content: >
           Once the draw is approved, your wire department is notified or you can
-          optionally do same-day bank payments. As the draw closes, the service
+          optionally do same-day payments. As the draw closes, the service
           generates analytics for go-forward budgeting and borrower risk
           scoring.
         actions: []
