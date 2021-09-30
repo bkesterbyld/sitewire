@@ -165,7 +165,6 @@ sections:
     padding_bottom: large
     background_color: primary
   - section_id: lorem-ipsum
-    subtitle: 'Chris B., Washington D.C.'
     actions: []
     grid_items: []
     grid_cols: three
