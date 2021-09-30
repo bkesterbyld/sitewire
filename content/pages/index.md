@@ -168,7 +168,7 @@ sections:
     actions: []
     grid_items:
       - title: '"This is worth an extra point on my deal"'
-        subtitle: lorem-ipsum
+        subtitle: Chris B. W
         title_align: left
         content: >-
           ## Lorem ipsum
