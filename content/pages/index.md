@@ -44,9 +44,10 @@ sections:
         media_width: fifty
       - title: Independent inspectors review the work
         content: >
-          Independent, licensed GCs review the work and provide disbursement
-          recommendations for your team. Then your back office approves the draw
-          and Sitewire notifies your wire department. 
+          Independent, licensed GCs review the work, communicate with borrowers
+          as needed and provide disbursement recommendations for your team. Then
+          your back office approves the draw and Sitewire notifies your wire
+          department.
         actions: []
         image: /images/websoftware.png
         image_alt: Feature 2 placeholder image
