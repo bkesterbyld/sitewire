@@ -64,7 +64,7 @@ sections:
         align: left
         type: feature
         image: /images/analytics2.png
-        title: Borrower get fast payments and you get analytics
+        title: Automated payments and analytics
     feature_padding_vert: large
     align: center
     background_color: primary
