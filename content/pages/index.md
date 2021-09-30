@@ -46,8 +46,8 @@ sections:
         content: >
           Independent, licensed GCs review the work, communicate with borrowers
           as needed and provide disbursement recommendations for your team. Then
-          your back office approves the draw and Sitewire notifies your wire
-          department.
+          your back office approves the draw and your wire department is
+          notified.
         actions: []
         image: /images/websoftware.png
         image_alt: Feature 2 placeholder image
