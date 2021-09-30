@@ -150,20 +150,6 @@ sections:
         media_width: thirty-three
     feature_padding_vert: small
     background_color: secondary
-  - type: cta_section
-    title: Try it today!
-    content: |
-      Sitewire is free to try for five draws
-    actions:
-      - label: Learn More
-        url: /general-enquiries
-        style: secondary
-    actions_position: right
-    actions_width: fourty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
   - section_id: lorem-ipsum
     actions: []
     grid_items:
@@ -194,6 +180,20 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
+  - type: cta_section
+    title: Try it today!
+    content: |
+      Sitewire is free to try for five draws
+    actions:
+      - label: Learn More
+        url: /general-enquiries
+        style: secondary
+    actions_position: right
+    actions_width: fourty
+    align: left
+    padding_top: large
+    padding_bottom: large
+    background_color: primary
 seo:
   title: Sitewire - Construction Draw Software
   description: Fully automate your draws today!
