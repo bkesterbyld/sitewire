@@ -45,8 +45,8 @@ sections:
         content: >
           Independent, licensed GCs review the work, communicate with borrowers
           as needed and provide disbursement recommendations for your team.
-          Sitewire also stores any relevant documents such as appraisals,
-          invoices, and lien releases.
+          Sitewire also enables document collaboration to store appraisals,
+          invoices and lien releases.
         actions: []
         image: /images/websoftware.png
         image_alt: Feature 2 placeholder image
