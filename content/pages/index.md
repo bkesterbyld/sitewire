@@ -62,6 +62,7 @@ sections:
         align: left
         type: feature
         image: /images/analytics2.png
+        title: You get analytics for
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         content: >-
