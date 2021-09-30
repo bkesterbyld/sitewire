@@ -52,8 +52,7 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
-      - title: Analytics help you better understand risk and rehab costs
-        content: >
+      - content: >
           Sitewire generates a number of views into your data, helping you score
           borrowers, manage risk and assemble accurate go-forward budgets
         actions: []
