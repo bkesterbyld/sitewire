@@ -167,7 +167,7 @@ sections:
   - section_id: lorem-ipsum
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: '"This is worth an extra point on my deal'
         subtitle: lorem-ipsum
         title_align: left
         content: >-
