@@ -165,7 +165,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - section_id: lorem-ipsum
-    subtitle: 'I '
+    subtitle: This is worth an extra point on my loan!
     actions: []
     grid_items: []
     grid_cols: three
