@@ -170,17 +170,6 @@ sections:
       - title: '"This is worth an extra point on my deal"'
         subtitle: 'Chris B., Washington, D.C.'
         title_align: center
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         content_align: left
         actions: []
         actions_align: left
