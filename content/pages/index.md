@@ -244,7 +244,7 @@ sections:
     form_position: right
     form_width: fifty
     form_layout: stacked
-    enable_card: true
+    enable_card: false
     form_id: lorem-ipsum
     form_action: Learn More
     form_fields:
