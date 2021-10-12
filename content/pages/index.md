@@ -27,7 +27,7 @@ sections:
     padding_bottom: large
     background_color: secondary
     background_image: /images/iStock-948655214.jpg
-    background_image_opacity: 30
+    background_image_opacity: 50
   - type: features_section
     title: How It Works
     features:
