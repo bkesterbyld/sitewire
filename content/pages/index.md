@@ -168,7 +168,7 @@ sections:
         image_align: center
         image_has_padding: false
         image: /images/bob.png
-      - title: '"'
+      - title: '"Easy and fast'
         subtitle: lorem-ipsum
         title_align: left
         content: >-
