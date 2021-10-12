@@ -260,7 +260,6 @@ sections:
     form_fields:
       - input_type: text
         name: Name
-        label: Name
         default_value: Name
         options:
           - lorem-ipsum
