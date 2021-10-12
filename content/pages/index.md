@@ -33,8 +33,7 @@ sections:
   - type: features_section
     title: How It Works
     features:
-      - title: Self service draw requests & job progress capture
-        content: >
+      - content: >
           Using an intuitive app, borrowers document job progress with video and
           photos and request funds in minutes. Background data analysis and
           location verification prevent fraud.
