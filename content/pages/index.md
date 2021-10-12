@@ -195,7 +195,7 @@ sections:
         image_has_padding: false
         image: /images/jose.png
       - title: '"Enables me to take on more projects"'
-        subtitle: 'Jeff W, Port'
+        subtitle: 'Jeff W, Portland'
         title_align: left
         content: >-
           ## Lorem ipsum
