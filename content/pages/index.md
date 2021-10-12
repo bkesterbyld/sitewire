@@ -28,6 +28,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: secondary
+    background_image: /images/iStock-948655214.jpg
   - type: features_section
     title: How It Works
     features:
