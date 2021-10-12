@@ -66,6 +66,7 @@ sections:
         align: left
         type: feature
         image: /images/analytics2.png
+        title: 'Payment processes '
     feature_padding_vert: large
     align: center
     background_color: primary
