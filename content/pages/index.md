@@ -274,7 +274,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
-    subtitle: 'Sitewire is free to try. '
 seo:
   title: Sitewire - Construction Draw Software
   description: Fully automate your draws today!
