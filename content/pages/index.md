@@ -226,7 +226,9 @@ sections:
     content: |
       # Get a Demo
 
-      Sitewire is free to try. Reach out today to get a demo and learn more.
+      Sitewire is free to try.
+
+      Reach out today to get a demo and learn more.
     content_align: left
     form_position: right
     form_width: fifty
