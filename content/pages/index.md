@@ -21,7 +21,7 @@ sections:
         icon: arrow-right
     image_alt: Hero section placeholder image
     media_position: right
-    media_width: fifty
+    media_width: sixty
     align: left
     padding_top: large
     padding_bottom: large
