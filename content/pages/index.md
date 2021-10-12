@@ -66,7 +66,7 @@ sections:
         align: left
         type: feature
         image: /images/analytics2.png
-        title: Payment processes are
+        title: 'Workflows and analytics are '
     feature_padding_vert: large
     align: center
     background_color: primary
