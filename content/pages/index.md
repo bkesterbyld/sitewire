@@ -196,7 +196,7 @@ sections:
         image: /images/jose.png
       - title: '"Enables me to take on more projects"'
         subtitle: 'Jeff W., Portland'
-        title_align: left
+        title_align: center
         content_align: center
         actions: []
         actions_align: left
