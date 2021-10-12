@@ -243,7 +243,7 @@ sections:
     content_align: center
     form_position: right
     form_width: fifty
-    form_layout: stacked
+    form_layout: inline
     enable_card: true
     form_id: lorem-ipsum
     form_action: Learn More
