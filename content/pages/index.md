@@ -182,7 +182,7 @@ sections:
         image_has_padding: false
         image: /images/joyce.png
       - title: '"So fucking killer"'
-        subtitle: lorem-ipsum
+        subtitle: 'Jaime L, Los Angeles'
         title_align: left
         content: >-
           ## Lorem ipsum
