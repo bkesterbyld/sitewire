@@ -169,7 +169,7 @@ sections:
         image_has_padding: false
         image: /images/bob.png
       - title: '"Keeps my budget on track"'
-        subtitle: Joyce C
+        subtitle: 'Joyce C., Dallas'
         title_align: left
         content: >-
           ## Lorem ipsum
