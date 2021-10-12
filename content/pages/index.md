@@ -246,7 +246,7 @@ sections:
         default_value: email
         options: []
         is_required: false
-    submit_label: Learn
+    submit_label: Learn More
     align_vert: top
     padding_top: medium
     padding_bottom: medium
