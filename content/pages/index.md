@@ -240,7 +240,7 @@ sections:
         options:
           - lorem-ipsum
         is_required: true
-      - input_type: text
+      - input_type: email
         name: lorem-ipsum
         default_value: email
         options: []
