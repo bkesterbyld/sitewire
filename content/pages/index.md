@@ -262,7 +262,8 @@ sections:
         name: Name
         label: lorem-ipsum
         default_value: Name
-        options: []
+        options:
+          - lorem-ipsum
         is_required: false
     submit_label: lorem-ipsum
     align_vert: top
