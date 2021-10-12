@@ -167,7 +167,7 @@ sections:
         image_width: twenty-five
         image_align: center
         image_has_padding: false
-        image: /images/chrisb.png
+        image: /images/bob.png
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
