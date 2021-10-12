@@ -66,7 +66,7 @@ sections:
         align: left
         type: feature
         image: /images/analytics2.png
-        title: 'Workflows and analytics are '
+        title: 'Back office '
     feature_padding_vert: large
     align: center
     background_color: primary
