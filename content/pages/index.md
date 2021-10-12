@@ -43,7 +43,7 @@ sections:
         media_position: right
         media_width: fifty
         title: Borrowers capture job progress and request funds
-      - title: Inspectors
+      - title: 'Experienced '
         content: >
           Independent, licensed GCs review the work, communicate with borrowers
           as needed and provide disbursement recommendations for your team.
