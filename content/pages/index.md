@@ -224,7 +224,7 @@ sections:
   - section_id: lorem-ipsum
     title_align: left
     content: |
-      # LEARN MORE
+      # Get a Demo
 
       Sitewire is free to try. Reach out today to get a demo and learn more.
     content_align: left
