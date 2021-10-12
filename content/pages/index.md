@@ -194,7 +194,7 @@ sections:
         image_align: center
         image_has_padding: false
         image: /images/jose.png
-      - title: '''Fast, easy'
+      - title: '"Fast'
         subtitle: lorem-ipsum
         title_align: left
         content: >-
