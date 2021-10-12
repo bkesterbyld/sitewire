@@ -29,7 +29,7 @@ sections:
     background_image_opacity: 100
     background_image_position: center center
     image: /images/block.png
-    background_image: /images/iStock-948655214 (3).jpg
+    background_image: /images/iStock-948655214 (5).jpg
   - type: features_section
     title: How It Works
     features:
