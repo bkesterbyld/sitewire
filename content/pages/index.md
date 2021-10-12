@@ -227,7 +227,7 @@ sections:
       # LEARN MORE
 
       Sitewire is free to try. Reach out today to get a demo and learn more.
-    content_align: center
+    content_align: left
     form_position: right
     form_width: fifty
     form_layout: stacked
