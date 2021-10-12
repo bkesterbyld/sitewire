@@ -168,7 +168,7 @@ sections:
         image_align: center
         image_has_padding: false
         image: /images/bob.png
-      - title: lorem-ipsum
+      - title: '"'
         subtitle: lorem-ipsum
         title_align: left
         content: >-
