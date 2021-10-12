@@ -240,7 +240,7 @@ sections:
     title_align: left
     content: |
       Sitewire is free to try. Reach out today to get a demo and learn more. 
-    content_align: left
+    content_align: center
     form_position: bottom
     form_width: fifty
     form_layout: stacked
