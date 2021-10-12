@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Turn draws around in 24 hours
     subtitle: >-
-      Sitewire helps private lenders streamline their construction draw process
-      and deliver the highest level of borrower service
+      Streamline your draw process and deliver the highest level of borrower
+      service
     content: |
       Hybrid, digital construction draws with optional same-day payments
     actions:
