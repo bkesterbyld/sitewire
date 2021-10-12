@@ -221,7 +221,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-  - section_id: lorem-ipsum
+  - section_id: Home-form-1
     title_align: left
     content: |
       # Get a Demo
@@ -234,8 +234,8 @@ sections:
     form_width: fifty
     form_layout: stacked
     enable_card: false
-    form_id: lorem-ipsum
-    form_action: Learn More
+    form_id: Home-form
+    form_action: /thank-you
     form_fields:
       - input_type: text
         name: Name
@@ -247,7 +247,7 @@ sections:
         name: Email
         default_value: Email
         options: []
-        is_required: false
+        is_required: true
     submit_label: Learn More
     align_vert: top
     padding_top: medium
@@ -260,6 +260,8 @@ sections:
     background_image_repeat: no-repeat
     type: form_section
     background_image: /images/gradientsw.png
+    title: '  '
+    subtitle: '  '
 seo:
   title: Sitewire - Construction Draw Software
   description: Fully automate your draws today!
