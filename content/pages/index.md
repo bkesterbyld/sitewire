@@ -57,7 +57,7 @@ sections:
       - content: >
           Once the draw is approved, your wire department is notified or you can
           optionally do same-day payments. You can also incorporate your note
-          buyer processes into the workflow, and share analytics with them. 
+          buyer processes into the workflow, and share analytics with them.
         actions: []
         image_alt: lorem-ipsum
         media_position: right
