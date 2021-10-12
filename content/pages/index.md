@@ -238,17 +238,8 @@ sections:
   - section_id: lorem-ipsum
     title: Learn more
     title_align: left
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: |
+      Sitewire is free to try. Reach out today to get a demo and learn more. 
     content_align: left
     form_position: bottom
     form_width: fifty
