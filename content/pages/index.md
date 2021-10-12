@@ -225,7 +225,9 @@ sections:
     title: Learn more
     title_align: left
     content: |
-      Sitewire is free to try. Reach out today to get a demo and learn more. 
+      # LEARN MORE
+
+      Sitewire is free to try. Reach out today to get a demo and learn more.
     content_align: center
     form_position: right
     form_width: fifty
