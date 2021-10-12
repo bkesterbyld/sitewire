@@ -36,7 +36,7 @@ sections:
       - content: >
           Using an intuitive app, borrowers document job progress with video and
           photos and request funds in minutes. Background data analysis and
-          location verification prevent fraud.
+          high-precision location verification prevent fraud.
         actions: []
         image: /images/Picture4.png
         image_alt: Feature 3 placeholder image
