@@ -25,7 +25,7 @@ sections:
     align: left
     padding_top: large
     padding_bottom: large
-    background_color: none
+    background_color: secondary
     background_image_opacity: 100
     background_image_position: center center
     image: /images/sitewire-lowres-57f10f75.png
