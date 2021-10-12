@@ -26,7 +26,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: secondary
-    background_image: /images/iStock-948655214.jpg
+    background_image: /images/sitewire-lowres.png
     background_image_opacity: 90
     background_image_position: center center
   - type: features_section
