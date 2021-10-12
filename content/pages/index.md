@@ -66,7 +66,7 @@ sections:
         align: left
         type: feature
         image: /images/analytics2.png
-        title: Payments
+        title: Payments are automated and staff efficiency goes up
     feature_padding_vert: large
     align: center
     background_color: primary
