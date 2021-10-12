@@ -66,7 +66,7 @@ sections:
         align: left
         type: feature
         image: /images/analytics2.png
-        title: Payments are automated and staff efficiency goes up
+        title: Borrower payments and note buyer reimbursements are automated
     feature_padding_vert: large
     align: center
     background_color: primary
