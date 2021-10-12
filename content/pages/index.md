@@ -194,7 +194,7 @@ sections:
         image_align: center
         image_has_padding: false
         image: /images/jose.png
-      - title: '"Fast'
+      - title: '"Enables me to take on more projects'
         subtitle: lorem-ipsum
         title_align: left
         content: >-
