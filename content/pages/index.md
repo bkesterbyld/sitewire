@@ -242,7 +242,7 @@ sections:
       Sitewire is free to try. Reach out today to get a demo and learn more. 
     content_align: center
     form_position: right
-    form_width: fifty
+    form_width: fourty
     form_layout: inline
     enable_card: true
     form_id: lorem-ipsum
