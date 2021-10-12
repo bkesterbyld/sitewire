@@ -28,7 +28,6 @@ sections:
     background_color: secondary
     background_image_opacity: 100
     background_image_position: center center
-    image: /images/sitewire-lowres-57f10f75.png
   - type: features_section
     title: How It Works
     features:
