@@ -2,13 +2,12 @@
 title: Home
 sections:
   - type: hero_section
-    title: Turn draws around in 24 hours and slash back office costs
+    title: Turn draws around in 24 hours
     subtitle: >-
-      Sitewire helps private lenders streamline their construction draw process
-      and deliver the highest level of borrower service
-    content: >
-      Mobile app and web-based workflow software to automate construction draw
-      management
+      Streamline your draw process and deliver the highest level of borrower
+      service
+    content: |
+      Hybrid, digital construction draws with optional same-day payments
     actions:
       - label: Apple App Store
         url: 'https://apps.apple.com/us/app/id1515565058'
@@ -20,44 +19,46 @@ sections:
         style: secondary
         new_window: true
         icon: arrow-right
-    image: >-
-      /images/5f7cedacc9860f79e64e39c0_sitewire-logo_logo-2-tone-blue-mark-p-500.png
     image_alt: Hero section placeholder image
-    media_position: left
-    media_width: fifty
+    media_position: right
+    media_width: sixty
     align: left
     padding_top: large
     padding_bottom: large
     background_color: secondary
+    background_image_opacity: 100
+    background_image_position: center center
+    image: /images/block.png
+    background_image: /images/iStock-948655214 (3).jpg
   - type: features_section
     title: How It Works
     features:
-      - title: Borrowers submit draws from the Sitewire app
-        content: >
-          Using an intuitive app, borrowers document job progress and request
-          funds in minutes. Background data analysis and location verification
-          prevent fraud.
+      - content: >
+          Using an intuitive app, borrowers document job progress with video and
+          photos and request funds in minutes. Background data analysis and
+          location verification prevent fraud.
         actions: []
         image: /images/Picture4.png
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: fifty
-      - title: Web software runs a workflow between inspectors and your team
+        title: Borrowers capture job progress and request funds
+      - title: Experienced GCs remotely inspect the work
         content: >
-          Independent, licensed GCs review the job and provide disbursement
-          recommendations for your team. Then your back office approves the draw
-          and Sitewire notifies your wire department. Along the way, borrowers
-          can see status changes, eliminating phone calls and emails to check on
-          their draws.
+          Independent, licensed GCs review the work, communicate with borrowers
+          as needed and provide disbursement recommendations for your team.
+          Sitewire also enables document collaboration to store appraisals,
+          invoices and lien releases.
         actions: []
         image: /images/websoftware.png
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
-      - title: Analytics help you better understand risk and rehab costs
-        content: >
-          Sitewire generates a number of views into your data, helping you score
-          borrowers, manage risk and assemble accurate go-forward budgets
+      - content: >
+          Once the draw is approved, your wire department is notified or you can
+          optionally do same-day payments. As the draw closes, the service
+          generates analytics for go-forward budgeting and borrower risk
+          scoring.
         actions: []
         image_alt: lorem-ipsum
         media_position: right
@@ -65,6 +66,7 @@ sections:
         align: left
         type: feature
         image: /images/analytics2.png
+        title: Payments are automated and staff efficiency goes up
     feature_padding_vert: large
     align: center
     background_color: primary
@@ -150,10 +152,79 @@ sections:
         media_width: thirty-three
     feature_padding_vert: small
     background_color: secondary
+  - section_id: lorem-ipsum
+    actions: []
+    grid_items:
+      - title: '"This is worth an extra point on my deal"'
+        subtitle: 'Bob B., Washington, D.C.'
+        title_align: center
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: twenty-five
+        image_align: center
+        image_has_padding: false
+        image: /images/bob.png
+      - title: '"Keeps my budget on track"'
+        subtitle: 'Joyce C., Dallas'
+        title_align: center
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: center
+        image_has_padding: false
+        image: /images/joyce.png
+      - title: '"Saves me a ton of time"'
+        subtitle: 'Jaime L, Los Angeles'
+        title_align: center
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: center
+        image_has_padding: false
+        image: /images/jose.png
+      - title: '"Enables me to take on more projects"'
+        subtitle: 'Jeff W., Portland'
+        title_align: center
+        content_align: center
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: center
+        image_has_padding: false
+        image: /images/jeff.png
+    grid_cols: four
+    grid_gap_vert: small
+    grid_gap_horiz: small
+    enable_cards: false
+    align: center
+    padding_top: none
+    padding_bottom: small
+    has_border: false
+    background_color: secondary
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: grid_section
   - type: cta_section
     title: Try it today!
     content: |
-      Sitewire is free to try with your borrowers
+      Sitewire is free to try for five draws
     actions:
       - label: Learn More
         url: /general-enquiries
