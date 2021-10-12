@@ -226,7 +226,9 @@ sections:
     content: |
       # Get a Demo
 
-      Sitewire is free to try. Reach out today to get a demo and learn more.
+      Sitewire is free to try.
+
+      Reach out today to get a demo and learn more.
     content_align: left
     form_position: right
     form_width: fifty
@@ -242,11 +244,11 @@ sections:
           - lorem-ipsum
         is_required: true
       - input_type: email
-        name: email
-        default_value: email
+        name: Email
+        default_value: Email
         options: []
         is_required: false
-    submit_label: lorem-ipsum
+    submit_label: Learn More
     align_vert: top
     padding_top: medium
     padding_bottom: medium
