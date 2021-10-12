@@ -2,7 +2,7 @@
     "title": "Sitewire Construction Draw Software",
     "path_prefix": "/",
     "layout_type": "full-width",
-    "style": "classic",
+    "style": "bold",
     "palette": "blue",
     "mode": "light",
     "base_font": "sans-serif",
@@ -106,41 +106,14 @@
                 "style": "link"
             }
         ],
-        "has_social": false,
+        "has_social": true,
         "social_links": [
             {
-                "label": "GitHub",
-                "url": "https://github.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "github",
-                "icon_position": "center",
-                "new_window": true
-            },
-            {
                 "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "style": "link",
+                "url": "http://www.linkedin.com/company/sitewireco",
+                "style": "primary",
                 "has_icon": true,
                 "icon": "linkedin",
-                "icon_position": "center",
-                "new_window": true
-            },
-            {
-                "label": "YouTube",
-                "url": "https://www.youtube.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "youtube",
-                "icon_position": "center",
-                "new_window": true
-            },
-            {
-                "label": "Vimeo",
-                "url": "https://vimeo.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "vimeo",
                 "icon_position": "center",
                 "new_window": true
             }

@@ -182,7 +182,7 @@ sections:
         image_has_padding: false
         image: /images/joyce.png
       - title: '"Saves me a ton of time"'
-        subtitle: 'Jaime L, Los Angeles'
+        subtitle: 'Jaime L., Los Angeles'
         title_align: center
         content_align: left
         actions: []
@@ -221,20 +221,43 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-  - type: cta_section
-    title: Try it today!
+  - section_id: lorem-ipsum
+    title_align: left
     content: |
-      Sitewire is free to try for five draws
-    actions:
-      - label: Learn More
-        url: /general-enquiries
-        style: secondary
-    actions_position: right
-    actions_width: fourty
-    align: left
-    padding_top: large
-    padding_bottom: large
+      # Get a Demo
+
+      Sitewire is free to try. Reach out today to get a demo and learn more.
+    content_align: left
+    form_position: right
+    form_width: fifty
+    form_layout: stacked
+    enable_card: false
+    form_id: lorem-ipsum
+    form_action: Learn More
+    form_fields:
+      - input_type: text
+        name: Name
+        default_value: Name
+        options:
+          - lorem-ipsum
+        is_required: true
+      - input_type: email
+        name: email
+        default_value: email
+        options: []
+        is_required: false
+    submit_label: lorem-ipsum
+    align_vert: top
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
     background_color: primary
+    background_image_opacity: 100
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: form_section
+    background_image: /images/gradientsw.png
 seo:
   title: Sitewire - Construction Draw Software
   description: Fully automate your draws today!
