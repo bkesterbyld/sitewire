@@ -20,7 +20,7 @@ sections:
         new_window: true
         icon: arrow-right
     image_alt: Hero section placeholder image
-    media_position: left
+    media_position: right
     media_width: fifty
     align: left
     padding_top: large
