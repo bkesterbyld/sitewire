@@ -66,7 +66,7 @@ sections:
         align: left
         type: feature
         image: /images/analytics2.png
-        title: Automated payments and analytics
+        title: 'You get a streamlined '
     feature_padding_vert: large
     align: center
     background_color: primary
