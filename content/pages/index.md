@@ -181,7 +181,7 @@ sections:
         image_align: center
         image_has_padding: false
         image: /images/joyce.png
-      - title: '"So fucking killer"'
+      - title: '"Saves me a ton of time"'
         subtitle: 'Jaime L, Los Angeles'
         title_align: left
         content_align: left
