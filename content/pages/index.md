@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Turn draws around in 24 hours and slash back office costs
+    title: Turn draws around in 24 hours
     subtitle: >-
       Sitewire helps private lenders streamline their construction draw process
       and deliver the highest level of borrower service
