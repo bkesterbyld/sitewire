@@ -182,7 +182,7 @@ sections:
         image_has_padding: false
         image: /images/joyce.png
       - title: '"Saves me a ton of time"'
-        subtitle: 'Jaime L, Los Angeles'
+        subtitle: 'Jaime L., Los Angeles'
         title_align: center
         content_align: left
         actions: []
