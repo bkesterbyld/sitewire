@@ -241,7 +241,7 @@ sections:
           - lorem-ipsum
         is_required: true
       - input_type: email
-        name: lorem-ipsum
+        name: '  '
         default_value: email
         options: []
         is_required: false
