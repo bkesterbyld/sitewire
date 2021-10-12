@@ -170,7 +170,7 @@ sections:
         image: /images/bob.png
       - title: '"Keeps my budget on track"'
         subtitle: 'Joyce C., Dallas'
-        title_align: left
+        title_align: center
         content: >-
           ## Lorem ipsum
 
