@@ -261,6 +261,7 @@ sections:
     type: form_section
     background_image: /images/gradientsw.png
     title: '  '
+    subtitle: '  '
 seo:
   title: Sitewire - Construction Draw Software
   description: Fully automate your draws today!
