@@ -42,7 +42,7 @@ sections:
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: fifty
-        title: Borrowers submit draw requests w
+        title: 'Borrowers submit draw requests and '
       - title: 'Virutal inspection by experienced, licensed GCs'
         content: >
           Independent, licensed GCs review the work, communicate with borrowers
