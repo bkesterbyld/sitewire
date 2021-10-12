@@ -264,7 +264,7 @@ sections:
         default_value: Name
         options:
           - lorem-ipsum
-        is_required: false
+        is_required: true
     submit_label: lorem-ipsum
     align_vert: top
     padding_top: medium
