@@ -111,7 +111,7 @@
             {
                 "label": "LinkedIn",
                 "url": "http://www.linkedin.com/company/sitewireco",
-                "style": "link",
+                "style": "primary",
                 "has_icon": true,
                 "icon": "linkedin",
                 "icon_position": "center",
