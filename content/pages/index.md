@@ -236,7 +236,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Learn more
     subtitle: lorem-ipsum
     title_align: left
     content: >-
