@@ -242,7 +242,7 @@ sections:
         is_required: true
       - input_type: text
         name: lorem-ipsum
-        default_value: lorem-ipsum
+        default_value: email
         options: []
         is_required: false
     submit_label: lorem-ipsum
