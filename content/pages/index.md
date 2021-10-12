@@ -235,7 +235,7 @@ sections:
     form_layout: stacked
     enable_card: false
     form_id: Home form
-    form_action: Learn More
+    form_action: /thank-you
     form_fields:
       - input_type: text
         name: Name
