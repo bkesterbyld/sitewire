@@ -36,7 +36,7 @@ sections:
       - content: >
           Using an intuitive app, borrowers document job progress with video and
           photos and request funds in minutes. Background data analysis and
-          location verification prevent fraud.
+          high-precision location verification prevent fraud.
         actions: []
         image: /images/Picture4.png
         image_alt: Feature 3 placeholder image
@@ -56,9 +56,8 @@ sections:
         media_width: fifty
       - content: >
           Once the draw is approved, your wire department is notified or you can
-          optionally do same-day payments. As the draw closes, the service
-          generates analytics for go-forward budgeting and borrower risk
-          scoring.
+          optionally do same-day funding payments. You can also incorporate your
+          note buyer processes into the workflow, and share analytics with them.
         actions: []
         image_alt: lorem-ipsum
         media_position: right
@@ -66,7 +65,7 @@ sections:
         align: left
         type: feature
         image: /images/analytics2.png
-        title: Payments are automated and staff efficiency goes up
+        title: Funding & note buyer reimbursements are automated
     feature_padding_vert: large
     align: center
     background_color: primary
