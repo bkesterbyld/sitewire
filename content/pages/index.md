@@ -28,6 +28,7 @@ sections:
     background_color: secondary
     background_image: /images/iStock-948655214.jpg
     background_image_opacity: 90
+    background_image_position: center center
   - type: features_section
     title: How It Works
     features:
