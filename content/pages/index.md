@@ -221,20 +221,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-  - type: cta_section
-    title: Try it today!
-    content: |
-      Sitewire is free to try for five draws
-    actions:
-      - label: Learn More
-        url: /general-enquiries
-        style: secondary
-    actions_position: right
-    actions_width: fourty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
   - section_id: lorem-ipsum
     title: Learn more
     title_align: left
