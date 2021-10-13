@@ -6,8 +6,9 @@ sections:
     subtitle: >-
       Streamline your draw process and deliver the highest level of borrower
       service
-    content: |
-      Hybrid, digital draw inspections with optional same-day payments
+    content: >
+      Hybrid, digital draw inspections with optional same-day ACH or wire
+      funding
     actions:
       - label: Apple App Store
         url: 'https://apps.apple.com/us/app/id1515565058'
