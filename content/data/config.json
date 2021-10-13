@@ -59,7 +59,7 @@
         "primary_nav_links": [
             {
                 "label": "Come see us at booth 202 at the AAPL annual conference",
-                "url": "/about",
+                "url": "https://aaplonline.com/conference/",
                 "style": "link"
             },
             {
