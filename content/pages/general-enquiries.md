@@ -44,7 +44,7 @@ sections:
           - Lender
           - Note Buyer
       - input_type: textarea
-        name: Give us
+        name: Please share details about your problem
         label: Any details to share or questions we can answer?
         default_value: Your message
         is_required: false
