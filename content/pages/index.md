@@ -39,10 +39,10 @@ sections:
           photos and request funds in minutes. Background data analysis and
           high-precision location verification prevent fraud.
         actions: []
-        image: /images/Picture4.png
-        image_alt: Feature 3 placeholder image
+        image: /images/sitewirephone4.png
+        image_alt: Android and iOS Draw App
         media_position: right
-        media_width: fifty
+        media_width: fourty
         title: Borrowers capture job progress and request funds
       - title: Experienced GCs remotely inspect the work
         content: >
@@ -51,10 +51,10 @@ sections:
           Sitewire also enables document collaboration to store appraisals,
           invoices and lien releases.
         actions: []
-        image: /images/websoftware.png
-        image_alt: Feature 2 placeholder image
+        image: /images/inspection.png
+        image_alt: Hybrid Inspections by Licensed GCs
         media_position: left
-        media_width: fifty
+        media_width: fourty
       - content: >
           Once the draw is approved, your wire department is notified with remit
           details or you can optionally do same-day funding payments. You can
@@ -63,10 +63,10 @@ sections:
         actions: []
         image_alt: lorem-ipsum
         media_position: right
-        media_width: sixty
+        media_width: fourty
         align: left
         type: feature
-        image: /images/analytics2.png
+        image: /images/workflow.png
         title: Automated funding and note buyer reimbursement
     feature_padding_vert: large
     align: center
