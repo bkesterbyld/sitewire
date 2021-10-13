@@ -70,7 +70,8 @@
                 "label": "iOS App",
                 "url": "https://apps.apple.com/us/app/id1515565058",
                 "style": "link",
-                "has_icon": true
+                "has_icon": true,
+                "icon": "arrow-right"
             },
             {
                 "label": "General",
