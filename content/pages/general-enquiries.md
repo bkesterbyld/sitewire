@@ -2,7 +2,7 @@
 title: General enquiries
 sections:
   - type: hero_section
-    title: Get a Demo or Support
+    title: Get Support
     subtitle: We'll get back to you ASAP
     align: center
     padding_top: medium
