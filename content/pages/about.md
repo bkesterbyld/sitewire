@@ -17,6 +17,8 @@ sections:
     title: Get to know us
     title_align: left
     content: |
+      # Get to know us
+
       We'd love to learn more about your business
     content_align: left
     form_position: right
