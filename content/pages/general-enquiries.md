@@ -44,7 +44,7 @@ sections:
           - Lender
           - Note Buyer
       - input_type: textarea
-        name: Any details to share or questions we can answer?
+        name: Give us
         label: Any details to share or questions we can answer?
         default_value: Your message
         is_required: false
