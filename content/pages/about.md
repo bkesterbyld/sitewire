@@ -27,7 +27,7 @@ sections:
     has_border: false
     background_color: primary
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Get to know us
     subtitle: lorem-ipsum
     title_align: left
     content: >-
