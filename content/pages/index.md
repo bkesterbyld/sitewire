@@ -51,7 +51,7 @@ sections:
           Sitewire also enables document collaboration to store appraisals,
           invoices and lien releases.
         actions: []
-        image: /images/websoftware.png
+        image: /images/inspection.png
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
