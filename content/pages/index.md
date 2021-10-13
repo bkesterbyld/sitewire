@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Turn draws around in 24 hours
+    title: Same-Day Construction Draws
     subtitle: >-
       Streamline your draw process and deliver the highest level of borrower
       service
