@@ -39,7 +39,7 @@ sections:
         options:
           - lorem-ipsum
         is_required: false
-    submit_label: lorem-ipsum
+    submit_label: Learn More
     align_vert: top
     padding_top: medium
     padding_bottom: medium
