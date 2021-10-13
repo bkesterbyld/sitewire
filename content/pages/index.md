@@ -52,7 +52,7 @@ sections:
           invoices and lien releases.
         actions: []
         image: /images/inspection.png
-        image_alt: Feature 2 placeholder image
+        image_alt: 'Hybrid Inspections by '
         media_position: left
         media_width: fifty
       - content: >
