@@ -52,7 +52,7 @@ sections:
           invoices and lien releases.
         actions: []
         image: /images/inspection.png
-        image_alt: 'Hybrid Inspections by '
+        image_alt: Hybrid Inspections by Licensed GCs
         media_position: left
         media_width: fifty
       - content: >
