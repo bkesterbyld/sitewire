@@ -26,7 +26,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: primary
-  - section_id: lorem-ipsum
+  - section_id: Get-to-know-us
     title: Get to know us
     title_align: left
     content: |
