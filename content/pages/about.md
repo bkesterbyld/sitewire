@@ -13,19 +13,6 @@ sections:
         image_alt: People in conversation in the office lounge area
         media_position: right
         media_width: fifty
-  - type: cta_section
-    title: Get to know us
-    content: |
-      We'd love to learn more about your business
-    actions:
-      - label: Reach Out
-        url: /general-enquiries
-        style: primary
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: primary
   - section_id: Get-to-know-us
     title: Get to know us
     title_align: left
