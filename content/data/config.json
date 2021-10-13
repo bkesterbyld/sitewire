@@ -67,7 +67,7 @@
         "secondary_nav_title": "Product",
         "secondary_nav_links": [
             {
-                "label": "News",
+                "label": "iOS App",
                 "url": "/blog/category/news",
                 "style": "link"
             },
