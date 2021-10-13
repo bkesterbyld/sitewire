@@ -19,7 +19,7 @@ sections:
     content: |
       We'd love to learn more about your business
     content_align: left
-    form_position: bottom
+    form_position: right
     form_width: fifty
     form_layout: stacked
     enable_card: false
