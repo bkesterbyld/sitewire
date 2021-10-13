@@ -55,7 +55,7 @@
     "footer": {
         "logo": "/images/sitewirebutton.png",
         "logo_alt": "Sitewire Construction Draw Software",
-        "has_primary_nav": false,
+        "has_primary_nav": true,
         "primary_nav_links": [
             {
                 "label": "About",
