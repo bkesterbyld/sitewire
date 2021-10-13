@@ -41,7 +41,7 @@ sections:
         is_required: false
     submit_label: Learn More
     align_vert: middle
-    padding_top: medium
+    padding_top: small
     padding_bottom: medium
     has_border: false
     background_color: primary
