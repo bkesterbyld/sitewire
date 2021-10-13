@@ -26,11 +26,11 @@ sections:
     align: left
     padding_top: large
     padding_bottom: large
-    background_color: secondary
+    background_color: primary
     background_image_opacity: 100
     background_image_position: center center
     image: /images/block.png
-    background_image: /images/iStock-948655214 (5).jpg
+    background_image: /images/sitewire-cover.jpg
   - type: features_section
     title: How It Works
     features:
