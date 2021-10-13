@@ -76,7 +76,8 @@
             {
                 "label": "Android App",
                 "url": "https://play.google.com/store/apps/details?id=com.byldtech.sitewire",
-                "style": "link"
+                "style": "link",
+                "has_icon": true
             },
             {
                 "label": "Tutorials",
