@@ -66,7 +66,7 @@ sections:
         align: left
         type: feature
         image: /images/analytics2.png
-        title: Funding & note buyer reimbursements are automated
+        title: Automate funding and note buyer reimbursement
     feature_padding_vert: large
     align: center
     background_color: primary
