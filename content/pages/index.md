@@ -40,7 +40,7 @@ sections:
           high-precision location verification prevent fraud.
         actions: []
         image: /images/sitewirephone.png
-        image_alt: Feature 3 placeholder image
+        image_alt: Android and iOS Draw App
         media_position: right
         media_width: fifty
         title: Borrowers capture job progress and request funds
