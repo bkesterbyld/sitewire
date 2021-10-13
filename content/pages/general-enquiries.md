@@ -17,6 +17,12 @@ sections:
       lender's capital partner. If you're a borrower having trouble with the
       mobile app, please let us know what type of phone you have and provide any
       details you can about the issue you're having.
+
+
+
+
+      Our standard support hours are 9 AM to 5 PM across North American time
+      zones.
     content_align: left
     form_position: right
     form_width: fifty
