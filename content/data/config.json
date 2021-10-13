@@ -119,7 +119,8 @@
             }
         ],
         "content": "&copy; ByldTech Inc. dba Sitewire.",
-        "primary_nav_title": "Proud M"
+        "primary_nav_title": "Proud M",
+        "tertiary_nav_title": "Company"
     },
     "announcement": {
         "has_anncmnt": false,
