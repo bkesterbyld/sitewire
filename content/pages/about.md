@@ -14,7 +14,6 @@ sections:
         media_position: right
         media_width: fifty
   - section_id: Get-to-know-us
-    title: Get to know us
     title_align: left
     content: |
       # Get to know us
