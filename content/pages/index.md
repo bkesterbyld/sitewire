@@ -54,7 +54,7 @@ sections:
         image: /images/inspection.png
         image_alt: Hybrid Inspections by Licensed GCs
         media_position: left
-        media_width: fifty
+        media_width: fourty
       - content: >
           Once the draw is approved, your wire department is notified with remit
           details or you can optionally do same-day funding payments. You can
