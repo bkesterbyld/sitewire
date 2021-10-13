@@ -42,7 +42,7 @@ sections:
     submit_label: Learn More
     align_vert: middle
     padding_top: small
-    padding_bottom: medium
+    padding_bottom: small
     has_border: false
     background_color: primary
     background_image_opacity: 0
