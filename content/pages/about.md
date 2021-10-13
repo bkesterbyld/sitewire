@@ -28,7 +28,6 @@ sections:
     background_color: primary
   - section_id: lorem-ipsum
     title: Get to know us
-    subtitle: lorem-ipsum
     title_align: left
     content: |
       We'd love to learn more about your business
