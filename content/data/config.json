@@ -118,7 +118,8 @@
                 "new_window": true
             }
         ],
-        "content": "&copy; ByldTech Inc. dba Sitewire."
+        "content": "&copy; ByldTech Inc. dba Sitewire.",
+        "primary_nav_title": "Proud M"
     },
     "announcement": {
         "has_anncmnt": false,
