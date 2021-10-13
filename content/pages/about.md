@@ -49,7 +49,8 @@ sections:
         name: Email
         label: Email
         default_value: Email
-        options: []
+        options:
+          - lorem-ipsum
         is_required: false
     submit_label: lorem-ipsum
     align_vert: top
