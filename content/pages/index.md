@@ -39,7 +39,7 @@ sections:
           photos and request funds in minutes. Background data analysis and
           high-precision location verification prevent fraud.
         actions: []
-        image: /images/sitewirephone3.png
+        image: /images/sitewirephone4.png
         image_alt: Android and iOS Draw App
         media_position: right
         media_width: fourty
