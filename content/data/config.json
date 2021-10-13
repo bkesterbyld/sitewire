@@ -84,7 +84,8 @@
                 "label": "Borrower Login",
                 "url": "http://app.sitewire.co",
                 "style": "link",
-                "has_icon": true
+                "has_icon": true,
+                "icon": "arrow-right"
             }
         ],
         "has_tertiary_nav": true,
