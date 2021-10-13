@@ -53,33 +53,39 @@
         ]
     },
     "footer": {
-        "logo": "/images/sitewire-smaller2.png",
+        "logo": "/images/sitewirebutton.png",
         "logo_alt": "Sitewire Construction Draw Software",
-        "has_primary_nav": false,
+        "has_primary_nav": true,
         "primary_nav_links": [
             {
-                "label": "About",
-                "url": "/about",
+                "label": "Come see us at booth 202 at the AAPL annual conference",
+                "url": "https://aaplonline.com/conference/",
                 "style": "link"
             }
         ],
-        "has_secondary_nav": false,
-        "secondary_nav_title": "Blog",
+        "has_secondary_nav": true,
+        "secondary_nav_title": "Product",
         "secondary_nav_links": [
             {
-                "label": "News",
-                "url": "/blog/category/news",
-                "style": "link"
+                "label": "iOS App",
+                "url": "https://apps.apple.com/us/app/id1515565058",
+                "style": "link",
+                "has_icon": true,
+                "icon": "arrow-right"
             },
             {
-                "label": "General",
-                "url": "/blog/category/general",
-                "style": "link"
+                "label": "Android App",
+                "url": "https://play.google.com/store/apps/details?id=com.byldtech.sitewire",
+                "style": "link",
+                "has_icon": true,
+                "icon": "arrow-right"
             },
             {
-                "label": "Tutorials",
-                "url": "/blog/category/tutorials",
-                "style": "link"
+                "label": "Web Login",
+                "url": "http://app.sitewire.co",
+                "style": "link",
+                "has_icon": true,
+                "icon": "arrow-right"
             }
         ],
         "has_tertiary_nav": true,
@@ -118,15 +124,17 @@
                 "new_window": true
             }
         ],
-        "content": "&copy; ByldTech Inc. dba Sitewire."
+        "content": "&copy; ByldTech Inc. dba Sitewire.",
+        "primary_nav_title": "News & Events",
+        "tertiary_nav_title": "Company"
     },
     "announcement": {
-        "has_anncmnt": false,
-        "anncmnt_content": "Curabitur ac tellus mattis, tempor ipsum eu, eleifend sapien. **[Learn More](/pricing/)**",
-        "anncmnt_align": "left",
+        "has_anncmnt": true,
+        "anncmnt_content": "Visit Sitewire at Booth 2020 of the AAPL Annual Conference, November 15 and 16\n",
+        "anncmnt_align": "center",
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
-        "anncmnt_id": "new-features"
+        "anncmnt_id": "conference"
     },
     "domain": "https://sitewire.co",
     "favicon": "/images/favicon (2).ico"
