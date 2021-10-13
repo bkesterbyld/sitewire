@@ -37,7 +37,7 @@ sections:
         is_required: true
       - input_type: select
         name: subject
-        label: Subject
+        label: Role
         default_value: Please select
         options:
           - Borrower
