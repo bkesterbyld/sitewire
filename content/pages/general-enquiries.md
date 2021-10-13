@@ -2,7 +2,7 @@
 title: General enquiries
 sections:
   - type: hero_section
-    title: Get a Demo or Support
+    title: Support
     subtitle: We'll get back to you ASAP
     align: center
     padding_top: medium
@@ -10,21 +10,19 @@ sections:
     background_color: none
   - type: form_section
     content: >
-      ## Privacy
-
-
-      We never share your data with third parties. Period.
-
-
-
-
       ## Support Request?&#xA;&#xA;
 
 
-      If you need support, please let us know if you are a lender, borrower or
+      If you need help, please let us know if you are a lender, borrower or
       lender's capital partner. If you're a borrower having trouble with the
       mobile app, please let us know what type of phone you have and provide any
-      details you can about the issue you're having. 
+      details you can about the issue you're having.
+
+
+
+
+      Our standard support hours are 9 AM to 5 PM across North American time
+      zones.
     content_align: left
     form_position: right
     form_width: fifty
@@ -45,14 +43,14 @@ sections:
         is_required: true
       - input_type: select
         name: subject
-        label: Subject
+        label: Role
         default_value: Please select
         options:
-          - Learn more about Sitewire
-          - I need help!
-          - Other
+          - Borrower
+          - Lender
+          - Note Buyer
       - input_type: textarea
-        name: Any details to share or questions we can answer?
+        name: Please share details about your problem
         label: Any details to share or questions we can answer?
         default_value: Your message
         is_required: false
@@ -62,7 +60,7 @@ sections:
           I understand that this form is storing my submitted information so I
           can be contacted.
         is_required: true
-    submit_label: Contact Sitewire
+    submit_label: Get Help
     align_vert: top
     padding_top: medium
     padding_bottom: medium
