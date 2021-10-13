@@ -66,7 +66,7 @@ sections:
         media_width: sixty
         align: left
         type: feature
-        image: /images/analytics2.png
+        image: /images/workflow.png
         title: Automated funding and note buyer reimbursement
     feature_padding_vert: large
     align: center
