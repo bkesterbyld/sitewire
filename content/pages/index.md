@@ -42,7 +42,7 @@ sections:
         image: /images/sitewirephone.png
         image_alt: Android and iOS Draw App
         media_position: right
-        media_width: fifty
+        media_width: thirty-three
         title: Borrowers capture job progress and request funds
       - title: Experienced GCs remotely inspect the work
         content: >
