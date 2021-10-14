@@ -69,7 +69,7 @@ sections:
           - Note Buyer
       - input_type: textarea
         name: Please share details about your problem
-        label: Any details to share or questions we can answer?
+        label: 'Give '
         default_value: Your message
         is_required: false
       - input_type: checkbox
