@@ -10,19 +10,37 @@ sections:
     background_color: none
   - type: form_section
     content: >
-      ## Support Request?&#xA;&#xA;
+      ## Join the team!&#xA;&#xA;
 
 
-      If you need help, please let us know if you are a lender, borrower or
-      lender's capital partner. If you're a borrower having trouble with the
-      mobile app, please let us know what type of phone you have and provide any
-      details you can about the issue you're having.
+      Sitewire is revolutionizing the residential construction lending industry
+      with hybrid draw inspections. We're always adding to our network of
+      independent top-drawer general contractors, whether solo or with a
+      company, to help our clients accurately assess job progress. If you meet
+      the following requirements, we'd love to hear from you:
 
 
+      *   Experience on at least five residential rehab projects
 
 
-      Our standard support hours are 9 AM to 5 PM across North American time
-      zones.
+      *   5 years as a licensed general contractor
+
+
+      *   Bonded and prefer additional E\&O insurance (we can provide E\&O If
+      you don't carry it)
+
+
+      *   10 years of overall construction experience
+
+
+      *   BA / BS in construction, real estate, or related field preferred
+
+
+      In exchange, we offer a steady and potentially substantial incremental
+      revenue stream to your existing business and eligibility for equity
+      participation in Sitewire. Additionally, you'll be exposed to a network of
+      regional and national lenders and Wall Street institutions who may be able
+      to benefit your business.  
     content_align: left
     form_position: right
     form_width: fifty
