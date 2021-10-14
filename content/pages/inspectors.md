@@ -61,7 +61,7 @@ sections:
         is_required: true
       - input_type: text
         name: subject
-        label: Company or LLC Name
+        label: License Number and State
         default_value: Please select
         options:
           - Borrower
