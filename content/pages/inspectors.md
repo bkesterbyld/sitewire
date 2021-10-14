@@ -7,7 +7,7 @@ sections:
     align: center
     padding_top: medium
     padding_bottom: medium
-    background_color: secondary
+    background_color: primary
   - type: form_section
     content: >
       ## Join the team!&#xA;&#xA;
