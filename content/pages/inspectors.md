@@ -3,7 +3,7 @@ title: General enquiries
 sections:
   - type: hero_section
     title: Join our Inspection Team
-    subtitle: We'll get back to you ASAP
+    subtitle: Grow your solo contracting business or
     align: center
     padding_top: medium
     padding_bottom: medium
