@@ -33,14 +33,14 @@ sections:
       *   10 years of overall construction experience
 
 
-      *   BA / BS in construction, real estate, or related field preferred
+      *   BA / BS in construction, real estate a bonus
 
 
       In exchange, we offer a steady and potentially substantial incremental
       revenue stream to your existing business and eligibility for equity
       participation in Sitewire. Additionally, you'll be exposed to a network of
       regional and national lenders and Wall Street institutions who may be able
-      to benefit your business.  
+      to benefit your business.
     content_align: left
     form_position: right
     form_width: fifty
