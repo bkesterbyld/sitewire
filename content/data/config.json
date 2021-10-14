@@ -41,16 +41,6 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Support",
-                "url": "/general-enquiries",
-                "style": "link"
-            },
-            {
-                "label": "Login",
-                "url": "http://app.sitewire.co",
-                "style": "primary"
-            },
-            {
                 "label": "Join Our Inspection Team",
                 "url": "/inspections",
                 "style": "secondary",
@@ -59,6 +49,16 @@
                 "icon_position": "right",
                 "new_window": false,
                 "no_follow": false
+            },
+            {
+                "label": "Support",
+                "url": "/general-enquiries",
+                "style": "link"
+            },
+            {
+                "label": "Login",
+                "url": "http://app.sitewire.co",
+                "style": "primary"
             }
         ]
     },
