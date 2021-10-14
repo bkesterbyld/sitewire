@@ -3,7 +3,7 @@ title: General enquiries
 sections:
   - type: hero_section
     title: Join our Inspection Team
-    subtitle: Add inspections to your contracting business
+    subtitle: Add inspections revenue to your contracting business
     align: center
     padding_top: medium
     padding_bottom: medium
