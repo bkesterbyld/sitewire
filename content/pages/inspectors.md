@@ -61,7 +61,7 @@ sections:
         is_required: true
       - input_type: text
         name: subject
-        label: Role
+        label: Company or LLC Name
         default_value: Please select
         options:
           - Borrower
