@@ -41,6 +41,16 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
+                "label": "Join Our Inspection Team",
+                "url": "/inspections",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
                 "label": "Support",
                 "url": "/general-enquiries",
                 "style": "link"
