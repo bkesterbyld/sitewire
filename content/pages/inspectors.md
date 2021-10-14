@@ -3,7 +3,7 @@ title: General enquiries
 sections:
   - type: hero_section
     title: Join our Inspection Team
-    subtitle: Grow your solo contracting business or
+    subtitle: Add inspections to your contracting business
     align: center
     padding_top: medium
     padding_bottom: medium
