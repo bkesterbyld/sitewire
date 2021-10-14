@@ -52,7 +52,7 @@
             },
             {
                 "label": "Join Our Inspections Team",
-                "url": "#",
+                "url": "/inspections",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
