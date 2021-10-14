@@ -2,7 +2,7 @@
 title: General enquiries
 sections:
   - type: hero_section
-    title: Support
+    title: Join our Inspection Team
     subtitle: We'll get back to you ASAP
     align: center
     padding_top: medium
