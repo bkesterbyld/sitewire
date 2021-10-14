@@ -20,7 +20,7 @@ sections:
       the following requirements, we'd love to hear from you:
 
 
-      *   Experience on at least five residential rehab projects
+      *   Experience on at least 10 residential rehab projects
 
 
       *   5 years as a licensed general contractor
