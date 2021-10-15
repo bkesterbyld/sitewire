@@ -69,7 +69,7 @@
         "primary_nav_links": [
             {
                 "label": "Signup to join our inspection team",
-                "url": "https://aaplonline.com/conference/",
+                "url": "/inspectors",
                 "style": "link"
             }
         ],
