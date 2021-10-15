@@ -42,7 +42,7 @@
         "secondary_nav_links": [
             {
                 "label": "Join Our Inspection Team",
-                "url": "/inspections",
+                "url": "/inspectors",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
