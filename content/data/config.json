@@ -68,8 +68,8 @@
         "has_primary_nav": true,
         "primary_nav_links": [
             {
-                "label": "Come see us at booth 202 at the AAPL annual conference",
-                "url": "https://aaplonline.com/conference/",
+                "label": "Signup to join our inspection team",
+                "url": "/inspectors",
                 "style": "link"
             }
         ],
@@ -135,7 +135,7 @@
             }
         ],
         "content": "&copy; ByldTech Inc. dba Sitewire.",
-        "primary_nav_title": "News & Events",
+        "primary_nav_title": "Careers",
         "tertiary_nav_title": "Company"
     },
     "announcement": {
