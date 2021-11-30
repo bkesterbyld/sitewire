@@ -44,7 +44,7 @@ sections:
         media_position: right
         media_width: fourty
         title: Borrowers capture job progress and request funds
-      - title: 'Experienced GCs remotely inspect the work, or you do it yourself'
+      - title: Experienced GCs remotely inspect the work in concert with your team
         content: >
           Independent, licensed GCs review the work, communicate with borrowers
           as needed and provide disbursement recommendations for your team.
