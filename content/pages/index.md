@@ -7,7 +7,7 @@ sections:
       Streamline your draw process and deliver the highest level of borrower
       service
     content: |
-      Digital draws with optional GC Inspection Review
+      Digital draws with optional independent inspection reviews
     actions:
       - label: Apple App Store
         url: 'https://apps.apple.com/us/app/id1515565058'
