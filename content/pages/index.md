@@ -6,9 +6,8 @@ sections:
     subtitle: >-
       Streamline your draw process and deliver the highest level of borrower
       service
-    content: >
-      Digital draw mobile and web workflow service with optional 3rd party GC
-      desk review
+    content: |
+      Digital draw workflow soluition with optional 3rd party GC desk review
     actions:
       - label: Apple App Store
         url: 'https://apps.apple.com/us/app/id1515565058'
