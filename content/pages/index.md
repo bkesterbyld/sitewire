@@ -46,7 +46,9 @@ sections:
         media_position: right
         media_width: fourty
         title: Borrowers request funds via mobile app or your website
-      - title: You review and approve draws with optional help from our 3rd party GCs
+      - title: >-
+          You review and approve draws with optional help from our 3rd party GC
+          inspectors
         content: >
           Draws are immediately routed to your team for review or transmit to an
           onsite inspection company. Optional independent, licensed GCs review
