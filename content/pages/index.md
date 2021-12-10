@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Same-Day Construction Draws
+    title: Lightning Fast Construction Draws
     subtitle: >-
       Streamline your draw process and deliver the highest level of borrower
       service
