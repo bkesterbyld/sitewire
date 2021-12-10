@@ -6,8 +6,9 @@ sections:
     subtitle: >-
       Streamline your draw process and deliver the highest level of borrower
       service
-    content: |
-      Digital draw inspections with optional same-day ACH or wire funding
+    content: >
+      Digital draw mobile and web software with optional 3rd party GC review
+      service
     actions:
       - label: Apple App Store
         url: 'https://apps.apple.com/us/app/id1515565058'
