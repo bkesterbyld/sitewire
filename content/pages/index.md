@@ -6,9 +6,8 @@ sections:
     subtitle: >-
       Streamline your draw process and deliver the highest level of borrower
       service
-    content: >
-      Digital draw mobile and web workflow service with optional 3rd party GC
-      desk review
+    content: |
+      Digital draw workflow soluition with optional 3rd party GC desk review
     actions:
       - label: Apple App Store
         url: 'https://apps.apple.com/us/app/id1515565058'
@@ -38,7 +37,9 @@ sections:
           Using an intuitive app, borrowers document job progress with video and
           photos and request funds in minutes. Background data analysis and
           high-precision location verification prevent fraud. Or borrowers
-          submit draw requests via a page from your website. 
+          submit draw requests via a page from your website which you can route
+          to traditional inspectors. Either way, your team and borrowers know
+          how the draw is proceeding in real time. 
         actions: []
         image: /images/sitewirephone4.png
         image_alt: Android and iOS Draw App
