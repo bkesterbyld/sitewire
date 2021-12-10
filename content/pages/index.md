@@ -36,7 +36,8 @@ sections:
       - content: >
           Using an intuitive app, borrowers document job progress with video and
           photos and request funds in minutes. Background data analysis and
-          high-precision location verification prevent fraud.
+          high-precision location verification prevent fraud. Or borrowers
+          submit draw requests via a page from your website. 
         actions: []
         image: /images/sitewirephone4.png
         image_alt: Android and iOS Draw App
