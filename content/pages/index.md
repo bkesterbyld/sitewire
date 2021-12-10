@@ -42,7 +42,7 @@ sections:
         image_alt: Android and iOS Draw App
         media_position: right
         media_width: fourty
-        title: Borrowers capture job progress and request funds
+        title: Borrowers request funds via mobile app or your website
       - title: Experienced GCs remotely inspect the work in concert with your team
         content: >
           Independent, licensed GCs review the work, communicate with borrowers
