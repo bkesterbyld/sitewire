@@ -46,10 +46,12 @@ sections:
         title: Borrowers request funds via mobile app or your website
       - title: You review and approve draws with optional help from our 3rd party GCs
         content: >
-          Independent, licensed GCs review the work, communicate with borrowers
-          as needed and provide disbursement recommendations for your team.
-          Sitewire also enables document collaboration to store appraisals,
-          invoices and lien releases.
+          Draws are immediately routed to your team for review or transmit to an
+          onsite inspection company. Optional independent, licensed GCs review
+          the work, communicate with borrowers as needed and provide
+          disbursement recommendations for your team. Sitewire also enables
+          document collaboration to store appraisals, invoices and lien
+          releases.
         actions: []
         image: /images/inspection.png
         image_alt: Hybrid Inspections by Licensed GCs
