@@ -44,7 +44,7 @@ sections:
         media_position: right
         media_width: fourty
         title: Borrowers request funds via mobile app or your website
-      - title: Experienced GCs remotely inspect the work in concert with your team
+      - title: You review and approve draws with optional help from our 3rd party GCs
         content: >
           Independent, licensed GCs review the work, communicate with borrowers
           as needed and provide disbursement recommendations for your team.
