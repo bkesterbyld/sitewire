@@ -2,12 +2,12 @@
 title: Home
 sections:
   - type: hero_section
-    title: Same-Day Construction Draws
+    title: Lightning Fast Construction Draws
     subtitle: >-
       Streamline your draw process and deliver the highest level of borrower
       service
     content: |
-      Digital draw workflow soluition with optional 3rd party GC desk review
+      Digital draws with independent inspection reviews
     actions:
       - label: Apple App Store
         url: 'https://apps.apple.com/us/app/id1515565058'
@@ -46,7 +46,9 @@ sections:
         media_position: right
         media_width: fourty
         title: Borrowers request funds via mobile app or your website
-      - title: You review and approve draws with optional help from our 3rd party GCs
+      - title: >-
+          You review and approve draws with optional help from our 3rd party GC
+          inspectors
         content: >
           Draws are immediately routed to your team for review or transmit to an
           onsite inspection company. Optional independent, licensed GCs review
