@@ -58,9 +58,9 @@ sections:
         media_width: fourty
       - content: >
           Once the draw is approved, your wire department is notified with remit
-          details or you can optionally do same-day funding payments. You can
-          also incorporate your note buyer processes into the workflow, and
-          share centralized data with them online or via API.
+          details or you can optionally do same-day electronics disbursements.
+          You can also incorporate your note buyer processes into the workflow,
+          and share centralized data with them online or via API.
         actions: []
         image_alt: lorem-ipsum
         media_position: right
