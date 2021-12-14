@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Ditch the spreadsheets and create happier borrowers
+    title: Ditch the spreadsheets and delight borrowers
     subtitle: >-
       Streamline your draw process and deliver the highest level of borrower
       service
