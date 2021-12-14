@@ -34,12 +34,9 @@ sections:
     title: How It Works
     features:
       - content: >
-          Using an intuitive app, borrowers document job progress with video and
-          photos and request funds in minutes. Background data analysis and
-          high-precision location verification prevent fraud. Or borrowers
-          submit draw requests via a page from your website which you can route
-          to traditional inspectors. Either way, your team and borrowers know
-          how the draw is proceeding in real time. 
+          Borrowers use a mobile app or a web page to submit draw requests.
+          Requests are then routed to onsite inspection companies or you can let
+          borrowers document job progress with picture and video capture.
         actions: []
         image: /images/sitewirephone4.png
         image_alt: Android and iOS Draw App
