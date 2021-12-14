@@ -2,12 +2,8 @@
 title: Home
 sections:
   - type: hero_section
-    title: Lightning Fast Construction Draws
-    subtitle: >-
-      Streamline your draw process and deliver the highest level of borrower
-      service
-    content: |
-      Digital draws with independent inspection reviews
+    title: Ditch the spreadsheets and delight borrowers
+    subtitle: End-to-end digital construction draw solution
     actions:
       - label: Apple App Store
         url: 'https://apps.apple.com/us/app/id1515565058'
@@ -43,9 +39,7 @@ sections:
         media_position: right
         media_width: fourty
         title: Borrowers request funds via mobile app or your website
-      - title: >-
-          You review and approve draws with optional help from our remote
-          inspectors
+      - title: You review and approve with optional help from our remote inspectors
         content: >
           Draw requests are tracked across both onsite and borrower
           self-inspections. Our staff of indpendent, licensed GCs review
