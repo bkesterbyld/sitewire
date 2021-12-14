@@ -44,7 +44,7 @@ sections:
         media_width: fourty
         title: Borrowers request funds via mobile app or your website
       - title: >-
-          You review and approve draws with optional help from our 3rd party GC
+          You review and approve draws with optional help from our remote
           inspectors
         content: >
           Draws are immediately routed to your team for review or transmit to an
