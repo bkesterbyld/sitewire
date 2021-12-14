@@ -47,12 +47,10 @@ sections:
           You review and approve draws with optional help from our remote
           inspectors
         content: >
-          Draws are immediately routed to your team for review or transmit to an
-          onsite inspection company. Optional independent, licensed GCs review
-          the work, communicate with borrowers as needed and provide
-          disbursement recommendations for your team. Sitewire also enables
-          document collaboration to store appraisals, invoices and lien
-          releases.
+          Draw requests are tracked across both onsite and borrower
+          self-inspections. Our staff of indpendent, licensed GCs review
+          borrower self-inspections and relay their findings to your team within
+          2-4 hours. 
         actions: []
         image: /images/inspection.png
         image_alt: Hybrid Inspections by Licensed GCs
