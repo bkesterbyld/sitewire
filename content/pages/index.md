@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Ditch the spreadsheets and delight borrowers
-    subtitle: >-
-      Streamline your draw process and deliver the highest level of borrower
-      service
+    subtitle: End-to-end digital draw workflow
     content: |
       Digital draws with independent inspection reviews
     actions:
