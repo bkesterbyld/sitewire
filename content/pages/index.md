@@ -34,12 +34,9 @@ sections:
     title: How It Works
     features:
       - content: >
-          Using an intuitive app, borrowers document job progress with video and
-          photos and request funds in minutes. Background data analysis and
-          high-precision location verification prevent fraud. Or borrowers
-          submit draw requests via a page from your website which you can route
-          to traditional inspectors. Either way, your team and borrowers know
-          how the draw is proceeding in real time. 
+          Borrowers use a mobile app or a web page to submit draw requests.
+          Requests are then routed to onsite inspection companies or you can let
+          borrowers document job progress with picture and video capture.
         actions: []
         image: /images/sitewirephone4.png
         image_alt: Android and iOS Draw App
@@ -47,15 +44,13 @@ sections:
         media_width: fourty
         title: Borrowers request funds via mobile app or your website
       - title: >-
-          You review and approve draws with optional help from our 3rd party GC
+          You review and approve draws with optional help from our remote
           inspectors
         content: >
-          Draws are immediately routed to your team for review or transmit to an
-          onsite inspection company. Optional independent, licensed GCs review
-          the work, communicate with borrowers as needed and provide
-          disbursement recommendations for your team. Sitewire also enables
-          document collaboration to store appraisals, invoices and lien
-          releases.
+          Draw requests are tracked across both onsite and borrower
+          self-inspections. Our staff of indpendent, licensed GCs review
+          borrower self-inspections and relay their findings to your team within
+          2-4 hours. 
         actions: []
         image: /images/inspection.png
         image_alt: Hybrid Inspections by Licensed GCs
@@ -63,9 +58,9 @@ sections:
         media_width: fourty
       - content: >
           Once the draw is approved, your wire department is notified with remit
-          details or you can optionally do same-day funding payments. You can
-          also incorporate your note buyer processes into the workflow, and
-          share centralized data with them online or via API.
+          details or you can optionally do same-day electronics disbursements.
+          You can also incorporate your note buyer processes into the workflow,
+          and share centralized data with them online or via API.
         actions: []
         image_alt: lorem-ipsum
         media_position: right
