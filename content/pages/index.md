@@ -27,8 +27,8 @@ sections:
     image: /images/block.png
     background_image: /images/sitewire-cover.jpg
     content: >
-      Eliminate data entry errors, borrower emails and phone calls with an
-      all-digital workflow
+      Eliminate data entry errors, borrower emails and support calls with an
+      all-digital draw workflow
   - type: features_section
     title: How It Works
     features:
