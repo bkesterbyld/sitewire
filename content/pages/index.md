@@ -35,7 +35,7 @@ sections:
       - content: >
           Borrowers use a mobile app or a web page to submit draw requests.
           Requests are then routed to onsite inspection companies or you can let
-          borrowers document job progress with picture and video capture.
+          borrowers document job progress with mobile picture and video capture.
         actions: []
         image: /images/sitewirephone4.png
         image_alt: Android and iOS Draw App
