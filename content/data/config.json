@@ -139,7 +139,7 @@
         "tertiary_nav_title": "Company"
     },
     "announcement": {
-        "has_anncmnt": true,
+        "has_anncmnt": false,
         "anncmnt_content": "Visit Sitewire at Booth 202 of the AAPL Annual Conference, November 15 and 16\n",
         "anncmnt_align": "center",
         "anncmnt_is_home_only": true,
