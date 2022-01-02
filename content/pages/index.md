@@ -42,7 +42,7 @@ sections:
         media_position: right
         media_width: fourty
         title: Borrowers request funds via mobile app or your website
-      - title: Review and and approve with optional help from our remote inspectors
+      - title: Review and approve with optional help from our remote inspectors
         content: >
           Draw requests are tracked across both onsite and borrower
           self-inspections. Our staff of indpendent, licensed GCs review
