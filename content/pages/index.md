@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Ditch the spreadsheets and delight borrowers
-    subtitle: End-to-end digital construction draw solution
+    subtitle: Digital draw platform
     actions:
       - label: Apple App Store
         url: 'https://apps.apple.com/us/app/id1515565058'
@@ -26,23 +26,22 @@ sections:
     background_image_position: center center
     image: /images/block.png
     background_image: /images/sitewire-cover.jpg
-    content: >
-      Eliminate duplicate data entry, errors, borrower emails and phone calls
-      with an all-digital workflow
+    content: |
+      Reduce the load on your back office with a centralized draw workflow
   - type: features_section
     title: How It Works
     features:
       - content: >
           Borrowers use a mobile app or a web page to submit draw requests.
           Requests are then routed to onsite inspection companies or you can let
-          borrowers document job progress with picture and video capture.
+          borrowers document job progress with pictures and video.
         actions: []
         image: /images/sitewirephone4.png
         image_alt: Android and iOS Draw App
         media_position: right
         media_width: fourty
         title: Borrowers request funds via mobile app or your website
-      - title: You review and approve with optional help from our remote inspectors
+      - title: Review and approve with optional help from our remote inspectors
         content: >
           Draw requests are tracked across both onsite and borrower
           self-inspections. Our staff of indpendent, licensed GCs review
@@ -55,7 +54,7 @@ sections:
         media_width: fourty
       - content: >
           Once the draw is approved, your wire department is notified with remit
-          details or you can optionally do same-day electronics disbursements.
+          details or you can optionally do same-day electronic disbursements.
           You can also incorporate your note buyer processes into the workflow,
           and share centralized data with them online or via API.
         actions: []
