@@ -26,9 +26,8 @@ sections:
     background_image_position: center center
     image: /images/block.png
     background_image: /images/sitewire-cover.jpg
-    content: >
-      Eliminate data entry errors, borrower emails and support calls with a
-      digital draw workflow
+    content: |
+      Reduce the load on your back office with a centralized draw workflow
   - type: features_section
     title: How It Works
     features:
