@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Ditch the spreadsheets and delight borrowers
-    subtitle: End-to-end digital construction draw solution
+    subtitle: Digital draw platform
     actions:
       - label: Apple App Store
         url: 'https://apps.apple.com/us/app/id1515565058'
