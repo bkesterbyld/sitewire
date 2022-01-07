@@ -271,7 +271,7 @@ seo:
       value: Sitewire Digital Construction Draws
       keyName: property
     - name: 'og:description'
-      value: Digitize your construction draws
+      value: Digital draw platform for construction lenders
       keyName: property
     - name: 'twitter:card'
       value: summary_large_image
