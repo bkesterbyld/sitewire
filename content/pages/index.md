@@ -280,7 +280,7 @@ seo:
     - name: 'twitter:description'
       value: The preview of the DIY theme
     - name: 'twitter:image'
-      value: images/diy-preview.png
+      value: /images/sitewirethumb-3c78064d.jpg
       relativeUrl: true
     - name: 'og:image'
       value: /images/sitewirethumb.jpg
