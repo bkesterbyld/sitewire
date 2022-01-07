@@ -278,7 +278,7 @@ seo:
     - name: 'twitter:title'
       value: Sitewire Digital Construction Draws
     - name: 'twitter:description'
-      value: The preview of the DIY theme
+      value: Digital Draw Platform for construction lenders
     - name: 'twitter:image'
       value: /images/sitewirethumb-3c78064d.jpg
       relativeUrl: true
