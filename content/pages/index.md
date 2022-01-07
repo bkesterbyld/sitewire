@@ -282,5 +282,9 @@ seo:
     - name: 'twitter:image'
       value: images/diy-preview.png
       relativeUrl: true
+    - name: 'og:image'
+      value: /images/sitewirethumb.jpg
+      keyName: property
+      relativeUrl: true
 layout: advanced
 ---
