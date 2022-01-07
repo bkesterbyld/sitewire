@@ -271,16 +271,20 @@ seo:
       value: Sitewire Digital Construction Draws
       keyName: property
     - name: 'og:description'
-      value: Digitize your construction draws
+      value: Digital draw platform for construction lenders
       keyName: property
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit DIY Theme
+      value: Sitewire Digital Construction Draws
     - name: 'twitter:description'
-      value: The preview of the DIY theme
+      value: Digital Draw Platform for construction lenders
     - name: 'twitter:image'
-      value: images/diy-preview.png
+      value: /images/sitewirethumb-3c78064d.jpg
+      relativeUrl: true
+    - name: 'og:image'
+      value: /images/sitewirethumb.jpg
+      keyName: property
       relativeUrl: true
 layout: advanced
 ---
