@@ -26,15 +26,17 @@ sections:
     background_image_position: center center
     image: /images/block.png
     background_image: /images/sitewire-cover.jpg
-    content: |
-      Reduce the load on your back office with a centralized draw workflow
+    content: >
+      Reduce the load on your back office with a centralized draw workflow and
+      easy tools for borrowers
   - type: features_section
     title: How It Works
     features:
       - content: >
-          Borrowers use a mobile app or a web page to submit draw requests.
-          Requests are then routed to onsite inspection companies or you can let
-          borrowers document job progress with pictures and video.
+          Borrowers use a mobile app or a web page to submit draw requests and
+          supporting docs. Requests are then routed to onsite inspection
+          companies or you can let borrowers document job progress with pictures
+          and video.
         actions: []
         image: /images/sitewirephone4.png
         image_alt: Android and iOS Draw App
@@ -78,10 +80,8 @@ sections:
     grid_items:
       - title: Easy
         title_align: center
-        content: >+
-          The app has been designed by ex-Apple engineers to make draw requests
-          intuitive and quick
-
+        content: |
+          Our web and mobile workflows make draw requests intuitive and quick
         content_align: center
         actions: []
         actions_align: left
@@ -93,8 +93,8 @@ sections:
       - title: Safe
         title_align: center
         content: >
-          Communications are encrypted and the app uses location and other data
-          to prevent fraud
+          Mobile communications are encrypted and the app uses location and
+          other data to prevent fraud
         content_align: center
         actions: []
         actions_align: left
@@ -120,7 +120,7 @@ sections:
         title_align: center
         content: >
           A built-in messaging system creates a single interface to borrowers
-          and a history of your communications
+          and a history of your draw communications
         content_align: center
         actions: []
         actions_align: left
