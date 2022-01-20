@@ -92,8 +92,8 @@ sections:
       - title: Safe
         title_align: center
         content: >
-          Communications are encrypted and the app uses location and other data
-          to prevent fraud
+          Mobile communications are encrypted and the app uses location and
+          other data to prevent fraud
         content_align: center
         actions: []
         actions_align: left
