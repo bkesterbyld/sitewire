@@ -33,9 +33,10 @@ sections:
     title: How It Works
     features:
       - content: >
-          Borrowers use a mobile app or a web page to submit draw requests.
-          Requests are then routed to onsite inspection companies or you can let
-          borrowers document job progress with pictures and video.
+          Borrowers use a mobile app or a web page to submit draw requests and
+          supporting docs. Requests are then routed to onsite inspection
+          companies or you can let borrowers document job progress with pictures
+          and video.
         actions: []
         image: /images/sitewirephone4.png
         image_alt: Android and iOS Draw App
