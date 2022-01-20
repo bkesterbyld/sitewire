@@ -79,10 +79,8 @@ sections:
     grid_items:
       - title: Easy
         title_align: center
-        content: >+
-          The app has been designed by ex-Apple engineers to make draw requests
-          intuitive and quick
-
+        content: |
+          Our web and mobile workflows make draw requests intuitive and quick
         content_align: center
         actions: []
         actions_align: left
