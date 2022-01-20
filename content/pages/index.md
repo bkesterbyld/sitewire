@@ -26,8 +26,9 @@ sections:
     background_image_position: center center
     image: /images/block.png
     background_image: /images/sitewire-cover.jpg
-    content: |
-      Reduce the load on your back office with a centralized draw workflow
+    content: >
+      Reduce the load on your back office with a centralized draw workflow and
+      easy tools for borrowers
   - type: features_section
     title: How It Works
     features:
