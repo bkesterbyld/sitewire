@@ -46,9 +46,9 @@ sections:
       - title: Review and approve with optional help from our remote inspectors
         content: >
           Draw requests are tracked across both onsite and borrower
-          self-inspections. Our staff of indpendent, licensed GCs review
-          borrower self-inspections and relay their findings to your team within
-          2-4 hours. 
+          self-inspections. Independent, licensed GCs review borrower
+          self-inspections and relay their findings to your team within 2-4
+          hours.
         actions: []
         image: /images/inspection.png
         image_alt: Hybrid Inspections by Licensed GCs
